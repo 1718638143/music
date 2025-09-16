@@ -1,0 +1,3158 @@
+[{
+		"name": "就忘了吧",
+		"artist": "1K",
+		"url": "./music/1K - 就忘了吧.mp3",
+		"cover": "./img/1K - 就忘了吧.webp",
+		"lrc": "./lrc/1K - 就忘了吧.lrc"
+	},
+	{
+		"name": "最好的安排 (8Free 0_8x版)",
+		"artist": "8Free",
+		"url": "./music/8Free - 最好的安排 (8Free 0_8x版).mp3",
+		"cover": "./img/8Free - 最好的安排 (8Free 0_8x版).webp",
+		"lrc": "./lrc/8Free - 最好的安排 (8Free 0_8x版).lrc"
+	},
+	{
+		"name": "天若有情",
+		"artist": "A-Lin",
+		"url": "./music/A-Lin - 天若有情.mp3",
+		"cover": "./img/A-Lin - 天若有情.webp",
+		"lrc": "./lrc/A-Lin - 天若有情.lrc"
+	},
+	{
+		"name": "So Far Away (Acoustic)",
+		"artist": "Adam Christopher",
+		"url": "./music/Adam Christopher - So Far Away (Acoustic).mp3",
+		"cover": "./img/Adam Christopher - So Far Away (Acoustic).webp",
+		"lrc": "./lrc/Adam Christopher - So Far Away (Acoustic).lrc"
+	},
+	{
+		"name": "Someone You Loved",
+		"artist": "Adriana Vitale",
+		"url": "./music/Adriana Vitale - Someone You Loved.mp3",
+		"cover": "./img/Adriana Vitale - Someone You Loved.webp",
+		"lrc": "./lrc/Adriana Vitale - Someone You Loved.lrc"
+	},
+	{
+		"name": "Uncover (Remix)",
+		"artist": "Afterfab _ Zara Larsson",
+		"url": "./music/Afterfab _ Zara Larsson - Uncover (Remix).mp3",
+		"cover": "./img/Afterfab _ Zara Larsson - Uncover (Remix).webp",
+		"lrc": "./lrc/Afterfab _ Zara Larsson - Uncover (Remix).lrc"
+	},
+	{
+		"name": "Wonderful U (Demo Version)",
+		"artist": "AGA",
+		"url": "./music/AGA - Wonderful U (Demo Version).mp3",
+		"cover": "./img/AGA - Wonderful U (Demo Version).webp",
+		"lrc": "./lrc/AGA - Wonderful U (Demo Version).lrc"
+	},
+	{
+		"name": "孤雏",
+		"artist": "AGA",
+		"url": "./music/AGA - 孤雏.mp3",
+		"cover": "./img/AGA - 孤雏.webp",
+		"lrc": "./lrc/AGA - 孤雏.lrc"
+	},
+	{
+		"name": "HEAVEN",
+		"artist": "Ailee",
+		"url": "./music/Ailee - HEAVEN.mp3",
+		"cover": "./img/Ailee - HEAVEN.webp",
+		"lrc": "./lrc/Ailee - HEAVEN.lrc"
+	},
+	{
+		"name": "Let Me Down Slowly",
+		"artist": "Alec Benjamin _ Alessia Cara",
+		"url": "./music/Alec Benjamin _ Alessia Cara - Let Me Down Slowly.mp3",
+		"cover": "./img/Alec Benjamin _ Alessia Cara - Let Me Down Slowly.webp",
+		"lrc": "./lrc/Alec Benjamin _ Alessia Cara - Let Me Down Slowly.lrc"
+	},
+	{
+		"name": "Scars To Your Beautiful",
+		"artist": "Alessia Cara",
+		"url": "./music/Alessia Cara - Scars To Your Beautiful.mp3",
+		"cover": "./img/Alessia Cara - Scars To Your Beautiful.webp",
+		"lrc": "./lrc/Alessia Cara - Scars To Your Beautiful.lrc"
+	},
+	{
+		"name": "All My People",
+		"artist": "Alexandra Stan _ Manilla Maniacs",
+		"url": "./music/Alexandra Stan _ Manilla Maniacs - All My People.mp3",
+		"cover": "./img/Alexandra Stan _ Manilla Maniacs - All My People.webp",
+		"lrc": "./lrc/Alexandra Stan _ Manilla Maniacs - All My People.lrc"
+	},
+	{
+		"name": "Yesterday",
+		"artist": "Anastasia Kushnir",
+		"url": "./music/Anastasia Kushnir - Yesterday.mp3",
+		"cover": "./img/Anastasia Kushnir - Yesterday.webp",
+		"lrc": "./lrc/Anastasia Kushnir - Yesterday.lrc"
+	},
+	{
+		"name": "You",
+		"artist": "Approaching Nirvana",
+		"url": "./music/Approaching Nirvana - You.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "Numb",
+		"artist": "Arc North _ New Beat Order _ Aaron Richards",
+		"url": "./music/Arc North _ New Beat Order _ Aaron Richards - Numb.mp3",
+		"cover": "./img/Arc North _ New Beat Order _ Aaron Richards - Numb.webp",
+		"lrc": "./lrc/Arc North _ New Beat Order _ Aaron Richards - Numb.lrc"
+	},
+	{
+		"name": "Salt",
+		"artist": "Ava Max",
+		"url": "./music/Ava Max - Salt.mp3",
+		"cover": "./img/Ava Max - Salt.webp",
+		"lrc": "./lrc/Ava Max - Salt.lrc"
+	},
+	{
+		"name": "Waiting for Love",
+		"artist": "Avicii",
+		"url": "./music/Avicii - Waiting for Love.mp3",
+		"cover": "./img/Avicii - Waiting for Love.webp",
+		"lrc": "./lrc/Avicii - Waiting for Love.lrc"
+	},
+	{
+		"name": "告白の夜 (告白之夜) (LIVE!! Ayasa Theater episode 7)",
+		"artist": "Ayasa绚沙",
+		"url": "./music/Ayasa绚沙 - 告白の夜 (告白之夜) (LIVE!! Ayasa Theater episode 7).mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "感谢你曾来过",
+		"artist": "Ayo97 _ 周思涵",
+		"url": "./music/Ayo97 _ 周思涵 - 感谢你曾来过.mp3",
+		"cover": "./img/Ayo97 _ 周思涵 - 感谢你曾来过.webp",
+		"lrc": "./lrc/Ayo97 _ 周思涵 - 感谢你曾来过.lrc"
+	},
+	{
+		"name": "Dein Weg (纯音乐版)",
+		"artist": "BeatMarker",
+		"url": "./music/BeatMarker - Dein Weg (纯音乐版).mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "海阔天空",
+		"artist": "BEYOND",
+		"url": "./music/BEYOND - 海阔天空.mp3",
+		"cover": "./img/BEYOND - 海阔天空.webp",
+		"lrc": "./lrc/BEYOND - 海阔天空.lrc"
+	},
+	{
+		"name": "YOU & I + ONLY LOOK AT ME (Live)",
+		"artist": "BLACKPINK",
+		"url": "./music/BLACKPINK - YOU & I + ONLY LOOK AT ME (Live).mp3",
+		"cover": "./img/BLACKPINK - YOU & I + ONLY LOOK AT ME (Live).webp",
+		"lrc": "./lrc/BLACKPINK - YOU & I + ONLY LOOK AT ME (Live).lrc"
+	},
+	{
+		"name": "我知道",
+		"artist": "BY2",
+		"url": "./music/BY2 - 我知道.mp3",
+		"cover": "./img/BY2 - 我知道.webp",
+		"lrc": "./lrc/BY2 - 我知道.lrc"
+	},
+	{
+		"name": "爱丫爱丫",
+		"artist": "By2",
+		"url": "./music/By2 - 爱丫爱丫.mp3",
+		"cover": "./img/By2 - 爱丫爱丫.webp",
+		"lrc": "./lrc/By2 - 爱丫爱丫.lrc"
+	},
+	{
+		"name": "Outside",
+		"artist": "Calvin Harris _ Ellie Goulding",
+		"url": "./music/Calvin Harris _ Ellie Goulding - Outside.mp3",
+		"cover": "./img/Calvin Harris _ Ellie Goulding - Outside.webp",
+		"lrc": "./lrc/Calvin Harris _ Ellie Goulding - Outside.lrc"
+	},
+	{
+		"name": "This Is What You Came For",
+		"artist": "Calvin Harris _ Rihanna",
+		"url": "./music/Calvin Harris _ Rihanna - This Is What You Came For.mp3",
+		"cover": "./img/Calvin Harris _ Rihanna - This Is What You Came For.webp",
+		"lrc": "./lrc/Calvin Harris _ Rihanna - This Is What You Came For.lrc"
+	},
+	{
+		"name": "Boom Clap",
+		"artist": "Charli xcx",
+		"url": "./music/Charli xcx - Boom Clap.mp3",
+		"cover": "./img/Charli xcx - Boom Clap.webp",
+		"lrc": "./lrc/Charli xcx - Boom Clap.lrc"
+	},
+	{
+		"name": "把回忆拼好给你",
+		"artist": "cici_",
+		"url": "./music/cici_ - 把回忆拼好给你.mp3",
+		"cover": "./img/cici_ - 把回忆拼好给你.webp",
+		"lrc": "./lrc/cici_ - 把回忆拼好给你.lrc"
+	},
+	{
+		"name": "不谓侠",
+		"artist": "CRITTY",
+		"url": "./music/CRITTY - 不谓侠.mp3",
+		"cover": "./img/CRITTY - 不谓侠.webp",
+		"lrc": "./lrc/CRITTY - 不谓侠.lrc"
+	},
+	{
+		"name": "迷人的危险",
+		"artist": "Dance Flow",
+		"url": "./music/Dance Flow - 迷人的危险.mp3",
+		"cover": "./img/Dance Flow - 迷人的危险.webp",
+		"lrc": "./lrc/Dance Flow - 迷人的危险.lrc"
+	},
+	{
+		"name": "Free Loop",
+		"artist": "Daniel Powter",
+		"url": "./music/Daniel Powter - Free Loop.mp3",
+		"cover": "./img/Daniel Powter - Free Loop.webp",
+		"lrc": "./lrc/Daniel Powter - Free Loop.lrc"
+	},
+	{
+		"name": "Pump It Up (Original Mix)",
+		"artist": "Danko",
+		"url": "./music/Danko - Pump It Up (Original Mix).mp3",
+		"cover": "./img/Danko - Pump It Up (Original Mix).webp",
+		"lrc": "./lrc/Danko - Pump It Up (Original Mix).lrc"
+	},
+	{
+		"name": "Coming Home",
+		"artist": "Dash Berlin _ Bo Bruce",
+		"url": "./music/Dash Berlin _ Bo Bruce - Coming Home.mp3",
+		"cover": "./img/Dash Berlin _ Bo Bruce - Coming Home.webp",
+		"lrc": "./lrc/Dash Berlin _ Bo Bruce - Coming Home.lrc"
+	},
+	{
+		"name": "Run Free (Original Mix)",
+		"artist": "Deep Chills _ IVIE",
+		"url": "./music/Deep Chills _ IVIE - Run Free (Original Mix).mp3",
+		"cover": "./img/Deep Chills _ IVIE - Run Free (Original Mix).webp",
+		"lrc": "./lrc/Deep Chills _ IVIE - Run Free (Original Mix).lrc"
+	},
+	{
+		"name": "Dream It Possible",
+		"artist": "Delacey",
+		"url": "./music/Delacey - Dream It Possible.mp3",
+		"cover": "./img/Delacey - Dream It Possible.webp",
+		"lrc": "./lrc/Delacey - Dream It Possible.lrc"
+	},
+	{
+		"name": "지나갈 테니 (顺其自然) (Been Through)",
+		"artist": "EXO",
+		"url": "./music/EXO - 지나갈 테니 (顺其自然) (Been Through).mp3",
+		"cover": "./img/EXO - 지나갈 테니 (顺其自然) (Been Through).webp",
+		"lrc": "./lrc/EXO - 지나갈 테니 (顺其自然) (Been Through).lrc"
+	},
+	{
+		"name": "陨落",
+		"artist": "Fanfan",
+		"url": "./music/Fanfan - 陨落.mp3",
+		"cover": "./img/Fanfan - 陨落.webp",
+		"lrc": "./lrc/Fanfan - 陨落.lrc"
+	},
+	{
+		"name": "千年之恋",
+		"artist": "F_I_R_飞儿乐团",
+		"url": "./music/F_I_R_飞儿乐团 - 千年之恋.mp3",
+		"cover": "./img/F_I_R_飞儿乐团 - 千年之恋.webp",
+		"lrc": "./lrc/F_I_R_飞儿乐团 - 千年之恋.lrc"
+	},
+	{
+		"name": "我们的爱",
+		"artist": "F_I_R_飞儿乐团",
+		"url": "./music/F_I_R_飞儿乐团 - 我们的爱.mp3",
+		"cover": "./img/F_I_R_飞儿乐团 - 我们的爱.webp",
+		"lrc": "./lrc/F_I_R_飞儿乐团 - 我们的爱.lrc"
+	},
+	{
+		"name": "心之火",
+		"artist": "F_I_R_飞儿乐团 _ 彭佳慧",
+		"url": "./music/F_I_R_飞儿乐团 _ 彭佳慧 - 心之火.mp3",
+		"cover": "./img/F_I_R_飞儿乐团 _ 彭佳慧 - 心之火.webp",
+		"lrc": "./lrc/F_I_R_飞儿乐团 _ 彭佳慧 - 心之火.lrc"
+	},
+	{
+		"name": "A_I_N_Y_",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - A_I_N_Y_.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "Where Did U Go",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - Where Did U Go.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - Where Did U Go.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - Where Did U Go.lrc"
+	},
+	{
+		"name": "你不是真正的快乐",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 你不是真正的快乐.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 你不是真正的快乐.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 你不是真正的快乐.lrc"
+	},
+	{
+		"name": "倒数",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 倒数.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 倒数.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 倒数.lrc"
+	},
+	{
+		"name": "光年之外",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 光年之外.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 光年之外.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 光年之外.lrc"
+	},
+	{
+		"name": "再见",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 再见.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 再见.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 再见.lrc"
+	},
+	{
+		"name": "写不完的温柔",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 写不完的温柔.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 写不完的温柔.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 写不完的温柔.lrc"
+	},
+	{
+		"name": "冰河时代",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 冰河时代.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 冰河时代.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 冰河时代.lrc"
+	},
+	{
+		"name": "句号",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 句号.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 句号.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 句号.lrc"
+	},
+	{
+		"name": "后会无期",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 后会无期.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 后会无期.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 后会无期.lrc"
+	},
+	{
+		"name": "唯一",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 唯一.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 唯一.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 唯一.lrc"
+	},
+	{
+		"name": "喜欢你",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 喜欢你.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 喜欢你.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 喜欢你.lrc"
+	},
+	{
+		"name": "多远都要在一起",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 多远都要在一起.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 多远都要在一起.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 多远都要在一起.lrc"
+	},
+	{
+		"name": "天空没有极限",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 天空没有极限.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 天空没有极限.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 天空没有极限.lrc"
+	},
+	{
+		"name": "心之焰",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 心之焰.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 心之焰.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 心之焰.lrc"
+	},
+	{
+		"name": "我的秘密",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 我的秘密.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 我的秘密.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 我的秘密.lrc"
+	},
+	{
+		"name": "来自天堂的魔鬼",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 来自天堂的魔鬼.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 来自天堂的魔鬼.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 来自天堂的魔鬼.lrc"
+	},
+	{
+		"name": "桃花诺",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 桃花诺.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 桃花诺.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 桃花诺.lrc"
+	},
+	{
+		"name": "泡沫",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 泡沫.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 泡沫.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 泡沫.lrc"
+	},
+	{
+		"name": "画 (Live Piano Session Ⅱ)",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 画 (Live Piano Session Ⅱ).mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 画 (Live Piano Session Ⅱ).webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 画 (Live Piano Session Ⅱ).lrc"
+	},
+	{
+		"name": "红蔷薇白玫瑰",
+		"artist": "G_E_M_ 邓紫棋",
+		"url": "./music/G_E_M_ 邓紫棋 - 红蔷薇白玫瑰.mp3",
+		"cover": "./img/G_E_M_ 邓紫棋 - 红蔷薇白玫瑰.webp",
+		"lrc": "./lrc/G_E_M_ 邓紫棋 - 红蔷薇白玫瑰.lrc"
+	},
+	{
+		"name": "Lose Control (Explicit)",
+		"artist": "Hedley",
+		"url": "./music/Hedley - Lose Control (Explicit).mp3",
+		"cover": "./img/Hedley - Lose Control (Explicit).webp",
+		"lrc": "./lrc/Hedley - Lose Control (Explicit).lrc"
+	},
+	{
+		"name": "赤伶",
+		"artist": "HITA",
+		"url": "./music/HITA - 赤伶.mp3",
+		"cover": "./img/HITA - 赤伶.webp",
+		"lrc": "./lrc/HITA - 赤伶.lrc"
+	},
+	{
+		"name": "Fractures",
+		"artist": "ILLENIUM _ Nevve",
+		"url": "./music/ILLENIUM _ Nevve - Fractures.mp3",
+		"cover": "./img/ILLENIUM _ Nevve - Fractures.webp",
+		"lrc": "./lrc/ILLENIUM _ Nevve - Fractures.lrc"
+	},
+	{
+		"name": "Shots (Broiler Remix)",
+		"artist": "Imagine Dragons _ Broiler",
+		"url": "./music/Imagine Dragons _ Broiler - Shots (Broiler Remix).mp3",
+		"cover": "./img/Imagine Dragons _ Broiler - Shots (Broiler Remix).webp",
+		"lrc": "./lrc/Imagine Dragons _ Broiler - Shots (Broiler Remix).lrc"
+	},
+	{
+		"name": "落差 (DJ版)",
+		"artist": "IN-K _ 王忻辰",
+		"url": "./music/IN-K _ 王忻辰 - 落差 (DJ版).mp3",
+		"cover": "./img/IN-K _ 王忻辰 - 落差 (DJ版).webp",
+		"lrc": "./lrc/IN-K _ 王忻辰 - 落差 (DJ版).lrc"
+	},
+	{
+		"name": "Human Legacy",
+		"artist": "Ivan Torrent",
+		"url": "./music/Ivan Torrent - Human Legacy.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "Cold",
+		"artist": "James Blunt",
+		"url": "./music/James Blunt - Cold.mp3",
+		"cover": "./img/James Blunt - Cold.webp",
+		"lrc": "./lrc/James Blunt - Cold.lrc"
+	},
+	{
+		"name": "Horizon",
+		"artist": "Janji",
+		"url": "./music/Janji - Horizon.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "Infinity",
+		"artist": "Jaymes Young",
+		"url": "./music/Jaymes Young - Infinity.mp3",
+		"cover": "./img/Jaymes Young - Infinity.webp",
+		"lrc": "./lrc/Jaymes Young - Infinity.lrc"
+	},
+	{
+		"name": "By Your Side",
+		"artist": "Jonas Blue _ RAYE",
+		"url": "./music/Jonas Blue _ RAYE - By Your Side.mp3",
+		"cover": "./img/Jonas Blue _ RAYE - By Your Side.webp",
+		"lrc": "./lrc/Jonas Blue _ RAYE - By Your Side.lrc"
+	},
+	{
+		"name": "Because of You",
+		"artist": "Josh Vietti",
+		"url": "./music/Josh Vietti - Because of You.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "Letter That Writing in the Wind",
+		"artist": "July",
+		"url": "./music/July - Letter That Writing in the Wind.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "Ignite",
+		"artist": "K-391 _ Alan Walker _ Julie Bergan _ 胜利",
+		"url": "./music/K-391 _ Alan Walker _ Julie Bergan _ 胜利 - Ignite.mp3",
+		"cover": "./img/K-391 _ Alan Walker _ Julie Bergan _ 胜利 - Ignite.webp",
+		"lrc": "./lrc/K-391 _ Alan Walker _ Julie Bergan _ 胜利 - Ignite.lrc"
+	},
+	{
+		"name": "Monsters (DJ敏少_Mushroom伴奏)",
+		"artist": "Katie Sky",
+		"url": "./music/Katie Sky - Monsters (DJ敏少_Mushroom伴奏).mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "Because of You",
+		"artist": "Kelly Clarkson",
+		"url": "./music/Kelly Clarkson - Because of You.mp3",
+		"cover": "./img/Kelly Clarkson - Because of You.webp",
+		"lrc": "./lrc/Kelly Clarkson - Because of You.lrc"
+	},
+	{
+		"name": "Catch My Breath",
+		"artist": "Kelly Clarkson",
+		"url": "./music/Kelly Clarkson - Catch My Breath.mp3",
+		"cover": "./img/Kelly Clarkson - Catch My Breath.webp",
+		"lrc": "./lrc/Kelly Clarkson - Catch My Breath.lrc"
+	},
+	{
+		"name": "Adagio for Summer Wind",
+		"artist": "Key Sounds Label",
+		"url": "./music/Key Sounds Label - Adagio for Summer Wind.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "ありがとう… (谢谢…)",
+		"artist": "KOKIA",
+		"url": "./music/KOKIA - ありがとう… (谢谢…).mp3",
+		"cover": "./img/KOKIA - ありがとう… (谢谢…).webp",
+		"lrc": "./lrc/KOKIA - ありがとう… (谢谢…).lrc"
+	},
+	{
+		"name": "大碗宽面",
+		"artist": "Kris Wu",
+		"url": "./music/Kris Wu - 大碗宽面.mp3",
+		"cover": "./img/Kris Wu - 大碗宽面.webp",
+		"lrc": "./lrc/Kris Wu - 大碗宽面.lrc"
+	},
+	{
+		"name": "Summertime Sadness (Cedric Gervais Remix)",
+		"artist": "Lana Del Rey _ Cedric Gervais",
+		"url": "./music/Lana Del Rey _ Cedric Gervais - Summertime Sadness (Cedric Gervais Remix).mp3",
+		"cover": "./img/Lana Del Rey _ Cedric Gervais - Summertime Sadness (Cedric Gervais Remix).webp",
+		"lrc": "./lrc/Lana Del Rey _ Cedric Gervais - Summertime Sadness (Cedric Gervais Remix).lrc"
+	},
+	{
+		"name": "Time to Pretend",
+		"artist": "Lazer Boomerang",
+		"url": "./music/Lazer Boomerang - Time to Pretend.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "Collapsing World",
+		"artist": "Lightscape",
+		"url": "./music/Lightscape - Collapsing World.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "芒种 (小提琴版)",
+		"artist": "Liu 9",
+		"url": "./music/Liu 9 - 芒种 (小提琴版).mp3",
+		"cover": "./img/Liu 9 - 芒种 (小提琴版).webp",
+		"lrc": "./lrc/Liu 9 - 芒种 (小提琴版).lrc"
+	},
+	{
+		"name": "我的一个道姑朋友",
+		"artist": "Lon",
+		"url": "./music/Lon - 我的一个道姑朋友.mp3",
+		"cover": "./img/Lon - 我的一个道姑朋友.webp",
+		"lrc": "./lrc/Lon - 我的一个道姑朋友.lrc"
+	},
+	{
+		"name": "Pretty Boy",
+		"artist": "M2M",
+		"url": "./music/M2M - Pretty Boy.mp3",
+		"cover": "./img/M2M - Pretty Boy.webp",
+		"lrc": "./lrc/M2M - Pretty Boy.lrc"
+	},
+	{
+		"name": "The Day You Went Away",
+		"artist": "M2M",
+		"url": "./music/M2M - The Day You Went Away.mp3",
+		"cover": "./img/M2M - The Day You Went Away.webp",
+		"lrc": "./lrc/M2M - The Day You Went Away.lrc"
+	},
+	{
+		"name": "Bye Bye",
+		"artist": "Mariah Carey",
+		"url": "./music/Mariah Carey - Bye Bye.mp3",
+		"cover": "./img/Mariah Carey - Bye Bye.webp",
+		"lrc": "./lrc/Mariah Carey - Bye Bye.lrc"
+	},
+	{
+		"name": "So Far Away",
+		"artist": "Martin Garrix _ David Guetta _ Jamie Scott _ Romy Dya",
+		"url": "./music/Martin Garrix _ David Guetta _ Jamie Scott _ Romy Dya - So Far Away.mp3",
+		"cover": "./img/Martin Garrix _ David Guetta _ Jamie Scott _ Romy Dya - So Far Away.webp",
+		"lrc": "./lrc/Martin Garrix _ David Guetta _ Jamie Scott _ Romy Dya - So Far Away.lrc"
+	},
+	{
+		"name": "Once upon a Time",
+		"artist": "Max Oazo _ Moonessa",
+		"url": "./music/Max Oazo _ Moonessa - Once upon a Time.mp3",
+		"cover": "./img/Max Oazo _ Moonessa - Once upon a Time.webp",
+		"lrc": "./lrc/Max Oazo _ Moonessa - Once upon a Time.lrc"
+	},
+	{
+		"name": "不需要挽留（Move On）",
+		"artist": "Mr_16罗隽永 _ Simyee陈芯怡",
+		"url": "./music/Mr_16罗隽永 _ Simyee陈芯怡 - 不需要挽留（Move On）.mp3",
+		"cover": "./img/Mr_16罗隽永 _ Simyee陈芯怡 - 不需要挽留（Move On）.webp",
+		"lrc": "./lrc/Mr_16罗隽永 _ Simyee陈芯怡 - 不需要挽留（Move On）.lrc"
+	},
+	{
+		"name": "Håll om mig",
+		"artist": "Nanne",
+		"url": "./music/Nanne - Håll om mig.mp3",
+		"cover": "./img/Nanne - Håll om mig.webp",
+		"lrc": "./lrc/Nanne - Håll om mig.lrc"
+	},
+	{
+		"name": "Lake Arrowhead (Radio Mix)",
+		"artist": "Nora En Pure",
+		"url": "./music/Nora En Pure - Lake Arrowhead (Radio Mix).mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "That Girl",
+		"artist": "Olly Murs",
+		"url": "./music/Olly Murs - That Girl.mp3",
+		"cover": "./img/Olly Murs - That Girl.webp",
+		"lrc": "./lrc/Olly Murs - That Girl.lrc"
+	},
+	{
+		"name": "三月絮",
+		"artist": "Pig小优",
+		"url": "./music/Pig小优 - 三月絮.mp3",
+		"cover": "./img/Pig小优 - 三月絮.webp",
+		"lrc": "./lrc/Pig小优 - 三月絮.lrc"
+	},
+	{
+		"name": "In The Shadow Of The Sun",
+		"artist": "Professor Green",
+		"url": "./music/Professor Green - In The Shadow Of The Sun.mp3",
+		"cover": "./img/Professor Green - In The Shadow Of The Sun.webp",
+		"lrc": "./lrc/Professor Green - In The Shadow Of The Sun.lrc"
+	},
+	{
+		"name": "This Far (RudeLies Remix)",
+		"artist": "Raven & Kreyn _ Nino Lucarelli _ RudeLies",
+		"url": "./music/Raven & Kreyn _ Nino Lucarelli _ RudeLies - This Far (RudeLies Remix).mp3",
+		"cover": "./img/Raven & Kreyn _ Nino Lucarelli _ RudeLies - This Far (RudeLies Remix).webp",
+		"lrc": "./lrc/Raven & Kreyn _ Nino Lucarelli _ RudeLies - This Far (RudeLies Remix).lrc"
+	},
+	{
+		"name": "Autumn Leaf",
+		"artist": "Re_Plus",
+		"url": "./music/Re_Plus - Autumn Leaf.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "Light It Up",
+		"artist": "Robin Hustin _ TobiMorrow _ Jex",
+		"url": "./music/Robin Hustin _ TobiMorrow _ Jex - Light It Up.mp3",
+		"cover": "./img/Robin Hustin _ TobiMorrow _ Jex - Light It Up.webp",
+		"lrc": "./lrc/Robin Hustin _ TobiMorrow _ Jex - Light It Up.lrc"
+	},
+	{
+		"name": "All Time Low",
+		"artist": "Sam Tsui _ Casey Breves _ Kurt Hugo Schneider",
+		"url": "./music/Sam Tsui _ Casey Breves _ Kurt Hugo Schneider - All Time Low.mp3",
+		"cover": "./img/Sam Tsui _ Casey Breves _ Kurt Hugo Schneider - All Time Low.webp",
+		"lrc": "./lrc/Sam Tsui _ Casey Breves _ Kurt Hugo Schneider - All Time Low.lrc"
+	},
+	{
+		"name": "最后一页 (女声版)",
+		"artist": "Sasablue",
+		"url": "./music/Sasablue - 最后一页 (女声版).mp3",
+		"cover": "./img/Sasablue - 最后一页 (女声版).webp",
+		"lrc": "./lrc/Sasablue - 最后一页 (女声版).lrc"
+	},
+	{
+		"name": "Dancing With Your Ghost",
+		"artist": "Sasha Alex Sloan",
+		"url": "./music/Sasha Alex Sloan - Dancing With Your Ghost.mp3",
+		"cover": "./img/Sasha Alex Sloan - Dancing With Your Ghost.webp",
+		"lrc": "./lrc/Sasha Alex Sloan - Dancing With Your Ghost.lrc"
+	},
+	{
+		"name": "aLIEz",
+		"artist": "SawanoHiroyuki[nZk] _ 瑞葵",
+		"url": "./music/SawanoHiroyuki[nZk] _ 瑞葵 - aLIEz.mp3",
+		"cover": "./img/SawanoHiroyuki[nZk] _ 瑞葵 - aLIEz.webp",
+		"lrc": "./lrc/SawanoHiroyuki[nZk] _ 瑞葵 - aLIEz.lrc"
+	},
+	{
+		"name": "直觉",
+		"artist": "Superluckyqi",
+		"url": "./music/Superluckyqi - 直觉.mp3",
+		"cover": "./img/Superluckyqi - 直觉.webp",
+		"lrc": "./lrc/Superluckyqi - 直觉.lrc"
+	},
+	{
+		"name": "千年泪",
+		"artist": "Tank",
+		"url": "./music/Tank - 千年泪.mp3",
+		"cover": "./img/Tank - 千年泪.webp",
+		"lrc": "./lrc/Tank - 千年泪.lrc"
+	},
+	{
+		"name": "Hall of Fame",
+		"artist": "The Script _ will_i_am",
+		"url": "./music/The Script _ will_i_am - Hall of Fame.mp3",
+		"cover": "./img/The Script _ will_i_am - Hall of Fame.webp",
+		"lrc": "./lrc/The Script _ will_i_am - Hall of Fame.lrc"
+	},
+	{
+		"name": "In My Blood",
+		"artist": "The Veronicas",
+		"url": "./music/The Veronicas - In My Blood.mp3",
+		"cover": "./img/The Veronicas - In My Blood.webp",
+		"lrc": "./lrc/The Veronicas - In My Blood.lrc"
+	},
+	{
+		"name": "Home",
+		"artist": "ThimLife _ Bibiane Z",
+		"url": "./music/ThimLife _ Bibiane Z - Home.mp3",
+		"cover": "./img/ThimLife _ Bibiane Z - Home.webp",
+		"lrc": "./lrc/ThimLife _ Bibiane Z - Home.lrc"
+	},
+	{
+		"name": "Apologize",
+		"artist": "Timbaland _ OneRepublic",
+		"url": "./music/Timbaland _ OneRepublic - Apologize.mp3",
+		"cover": "./img/Timbaland _ OneRepublic - Apologize.webp",
+		"lrc": "./lrc/Timbaland _ OneRepublic - Apologize.lrc"
+	},
+	{
+		"name": "Trouble I'm In",
+		"artist": "Twinbed",
+		"url": "./music/Twinbed - Trouble I'm In.mp3",
+		"cover": "./img/Twinbed - Trouble I'm In.webp",
+		"lrc": "./lrc/Twinbed - Trouble I'm In.lrc"
+	},
+	{
+		"name": "那女孩对我说",
+		"artist": "Uu (刘梦妤)",
+		"url": "./music/Uu (刘梦妤) - 那女孩对我说.mp3",
+		"cover": "./img/Uu (刘梦妤) - 那女孩对我说.webp",
+		"lrc": "./lrc/Uu (刘梦妤) - 那女孩对我说.lrc"
+	},
+	{
+		"name": "Walk Thru Fire",
+		"artist": "Vicetone _ Meron Ryan",
+		"url": "./music/Vicetone _ Meron Ryan - Walk Thru Fire.mp3",
+		"cover": "./img/Vicetone _ Meron Ryan - Walk Thru Fire.webp",
+		"lrc": "./lrc/Vicetone _ Meron Ryan - Walk Thru Fire.lrc"
+	},
+	{
+		"name": "Love Story (Original Version)",
+		"artist": "Violet Light _ Edward Maya",
+		"url": "./music/Violet Light _ Edward Maya - Love Story (Original Version).mp3",
+		"cover": "./img/Violet Light _ Edward Maya - Love Story (Original Version).webp",
+		"lrc": "./lrc/Violet Light _ Edward Maya - Love Story (Original Version).lrc"
+	},
+	{
+		"name": "满天星辰不及你",
+		"artist": "ycccc",
+		"url": "./music/ycccc - 满天星辰不及你.mp3",
+		"cover": "./img/ycccc - 满天星辰不及你.webp",
+		"lrc": "./lrc/ycccc - 满天星辰不及你.lrc"
+	},
+	{
+		"name": "East of Eden",
+		"artist": "Zella Day",
+		"url": "./music/Zella Day - East of Eden.mp3",
+		"cover": "./img/Zella Day - East of Eden.webp",
+		"lrc": "./lrc/Zella Day - East of Eden.lrc"
+	},
+	{
+		"name": "堕",
+		"artist": "Zyboy忠宇",
+		"url": "./music/Zyboy忠宇 - 堕.mp3",
+		"cover": "./img/Zyboy忠宇 - 堕.webp",
+		"lrc": "./lrc/Zyboy忠宇 - 堕.lrc"
+	},
+	{
+		"name": "妈妈的话",
+		"artist": "Zyboy忠宇",
+		"url": "./music/Zyboy忠宇 - 妈妈的话.mp3",
+		"cover": "./img/Zyboy忠宇 - 妈妈的话.webp",
+		"lrc": "./lrc/Zyboy忠宇 - 妈妈的话.lrc"
+	},
+	{
+		"name": "壁上观",
+		"artist": "一棵小葱 _ 张曦匀",
+		"url": "./music/一棵小葱 _ 张曦匀 - 壁上观.mp3",
+		"cover": "./img/一棵小葱 _ 张曦匀 - 壁上观.webp",
+		"lrc": "./lrc/一棵小葱 _ 张曦匀 - 壁上观.lrc"
+	},
+	{
+		"name": "牵丝戏 (DJ亚明版)",
+		"artist": "不只中二",
+		"url": "./music/不只中二 - 牵丝戏 (DJ亚明版).mp3",
+		"cover": "./img/不只中二 - 牵丝戏 (DJ亚明版).webp",
+		"lrc": "./lrc/不只中二 - 牵丝戏 (DJ亚明版).lrc"
+	},
+	{
+		"name": "我一个人怎么收场",
+		"artist": "世奈",
+		"url": "./music/世奈 - 我一个人怎么收场.mp3",
+		"cover": "./img/世奈 - 我一个人怎么收场.webp",
+		"lrc": "./lrc/世奈 - 我一个人怎么收场.lrc"
+	},
+	{
+		"name": "起风了 (旧版)",
+		"artist": "买辣椒也用券",
+		"url": "./music/买辣椒也用券 - 起风了 (旧版).mp3",
+		"cover": "./img/买辣椒也用券 - 起风了 (旧版).webp",
+		"lrc": "./lrc/买辣椒也用券 - 起风了 (旧版).lrc"
+	},
+	{
+		"name": "听说你",
+		"artist": "于冬然",
+		"url": "./music/于冬然 - 听说你.mp3",
+		"cover": "./img/于冬然 - 听说你.webp",
+		"lrc": "./lrc/于冬然 - 听说你.lrc"
+	},
+	{
+		"name": "我的眼泪你的战利品",
+		"artist": "于冬然",
+		"url": "./music/于冬然 - 我的眼泪你的战利品.mp3",
+		"cover": "./img/于冬然 - 我的眼泪你的战利品.webp",
+		"lrc": "./lrc/于冬然 - 我的眼泪你的战利品.lrc"
+	},
+	{
+		"name": "我的楼兰",
+		"artist": "云朵",
+		"url": "./music/云朵 - 我的楼兰.mp3",
+		"cover": "./img/云朵 - 我的楼兰.webp",
+		"lrc": "./lrc/云朵 - 我的楼兰.lrc"
+	},
+	{
+		"name": "离人赋",
+		"artist": "云汐",
+		"url": "./music/云汐 - 离人赋.mp3",
+		"cover": "./img/云汐 - 离人赋.webp",
+		"lrc": "./lrc/云汐 - 离人赋.lrc"
+	},
+	{
+		"name": "你不是真正的快乐",
+		"artist": "五月天",
+		"url": "./music/五月天 - 你不是真正的快乐.mp3",
+		"cover": "./img/五月天 - 你不是真正的快乐.webp",
+		"lrc": "./lrc/五月天 - 你不是真正的快乐.lrc"
+	},
+	{
+		"name": "突然好想你",
+		"artist": "五月天",
+		"url": "./music/五月天 - 突然好想你.mp3",
+		"cover": "./img/五月天 - 突然好想你.webp",
+		"lrc": "./lrc/五月天 - 突然好想你.lrc"
+	},
+	{
+		"name": "明月天涯",
+		"artist": "五音Jw",
+		"url": "./music/五音Jw - 明月天涯.mp3",
+		"cover": "./img/五音Jw - 明月天涯.webp",
+		"lrc": "./lrc/五音Jw - 明月天涯.lrc"
+	},
+	{
+		"name": "关键词",
+		"artist": "任然",
+		"url": "./music/任然 - 关键词.mp3",
+		"cover": "./img/任然 - 关键词.webp",
+		"lrc": "./lrc/任然 - 关键词.lrc"
+	},
+	{
+		"name": "后继者",
+		"artist": "任然",
+		"url": "./music/任然 - 后继者.mp3",
+		"cover": "./img/任然 - 后继者.webp",
+		"lrc": "./lrc/任然 - 后继者.lrc"
+	},
+	{
+		"name": "那年初夏",
+		"artist": "任然",
+		"url": "./music/任然 - 那年初夏.mp3",
+		"cover": "./img/任然 - 那年初夏.webp",
+		"lrc": "./lrc/任然 - 那年初夏.lrc"
+	},
+	{
+		"name": "伤心太平洋",
+		"artist": "任贤齐",
+		"url": "./music/任贤齐 - 伤心太平洋.mp3",
+		"cover": "./img/任贤齐 - 伤心太平洋.webp",
+		"lrc": "./lrc/任贤齐 - 伤心太平洋.lrc"
+	},
+	{
+		"name": "谪仙",
+		"artist": "伊格赛听 _ 叶里",
+		"url": "./music/伊格赛听 _ 叶里 - 谪仙.mp3",
+		"cover": "./img/伊格赛听 _ 叶里 - 谪仙.webp",
+		"lrc": "./lrc/伊格赛听 _ 叶里 - 谪仙.lrc"
+	},
+	{
+		"name": "挪威的森林",
+		"artist": "伍佰 & China Blue",
+		"url": "./music/伍佰 & China Blue - 挪威的森林.mp3",
+		"cover": "./img/伍佰 & China Blue - 挪威的森林.webp",
+		"lrc": "./lrc/伍佰 & China Blue - 挪威的森林.lrc"
+	},
+	{
+		"name": "特别的爱给特别的你",
+		"artist": "伍思凯",
+		"url": "./music/伍思凯 - 特别的爱给特别的你.mp3",
+		"cover": "./img/伍思凯 - 特别的爱给特别的你.webp",
+		"lrc": "./lrc/伍思凯 - 特别的爱给特别的你.lrc"
+	},
+	{
+		"name": "山有木兮-橙光《人鱼传说之长生烛》主题曲",
+		"artist": "伦桑,橙光音乐",
+		"url": "./music/伦桑,橙光音乐 - 山有木兮-橙光《人鱼传说之长生烛》主题曲.mp3",
+		"cover": "./img/伦桑,橙光音乐 - 山有木兮-橙光《人鱼传说之长生烛》主题曲.webp",
+		"lrc": "./lrc/伦桑,橙光音乐 - 山有木兮-橙光《人鱼传说之长生烛》主题曲.lrc"
+	},
+	{
+		"name": "伯虎说",
+		"artist": "伯爵Johnny _ 唐伯虎Annie",
+		"url": "./music/伯爵Johnny _ 唐伯虎Annie - 伯虎说.mp3",
+		"cover": "./img/伯爵Johnny _ 唐伯虎Annie - 伯虎说.webp",
+		"lrc": "./lrc/伯爵Johnny _ 唐伯虎Annie - 伯虎说.lrc"
+	},
+	{
+		"name": "西厢寻他",
+		"artist": "伯爵Johnny _ 唐伯虎Annie",
+		"url": "./music/伯爵Johnny _ 唐伯虎Annie - 西厢寻他.mp3",
+		"cover": "./img/伯爵Johnny _ 唐伯虎Annie - 西厢寻他.webp",
+		"lrc": "./lrc/伯爵Johnny _ 唐伯虎Annie - 西厢寻他.lrc"
+	},
+	{
+		"name": "潮汐 (Natural) (DJ版)",
+		"artist": "傅梦彤",
+		"url": "./music/傅梦彤 - 潮汐 (Natural) (DJ版).mp3",
+		"cover": "./img/傅梦彤 - 潮汐 (Natural) (DJ版).webp",
+		"lrc": "./lrc/傅梦彤 - 潮汐 (Natural) (DJ版).lrc"
+	},
+	{
+		"name": "童话",
+		"artist": "光良",
+		"url": "./music/光良 - 童话.mp3",
+		"cover": "./img/光良 - 童话.webp",
+		"lrc": "./lrc/光良 - 童话.lrc"
+	},
+	{
+		"name": "情书",
+		"artist": "克然Eli _ Pary _ 苏克",
+		"url": "./music/克然Eli _ Pary _ 苏克 - 情书.mp3",
+		"cover": "./img/克然Eli _ Pary _ 苏克 - 情书.webp",
+		"lrc": "./lrc/克然Eli _ Pary _ 苏克 - 情书.lrc"
+	},
+	{
+		"name": "最后一次的温柔",
+		"artist": "兰雨",
+		"url": "./music/兰雨 - 最后一次的温柔.mp3",
+		"cover": "./img/兰雨 - 最后一次的温柔.webp",
+		"lrc": "./lrc/兰雨 - 最后一次的温柔.lrc"
+	},
+	{
+		"name": "八年的爱",
+		"artist": "冰冰超人",
+		"url": "./music/冰冰超人 - 八年的爱.mp3",
+		"cover": "./img/冰冰超人 - 八年的爱.webp",
+		"lrc": "./lrc/冰冰超人 - 八年的爱.lrc"
+	},
+	{
+		"name": "春不晚 (女生版)",
+		"artist": "冰洁",
+		"url": "./music/冰洁 - 春不晚 (女生版).mp3",
+		"cover": "./img/冰洁 - 春不晚 (女生版).webp",
+		"lrc": "./lrc/冰洁 - 春不晚 (女生版).lrc"
+	},
+	{
+		"name": "轮回",
+		"artist": "刘增瞳",
+		"url": "./music/刘增瞳 - 轮回.mp3",
+		"cover": "./img/刘增瞳 - 轮回.webp",
+		"lrc": "./lrc/刘增瞳 - 轮回.lrc"
+	},
+	{
+		"name": "信仰",
+		"artist": "刘大壮",
+		"url": "./music/刘大壮 - 信仰.mp3",
+		"cover": "./img/刘大壮 - 信仰.webp",
+		"lrc": "./lrc/刘大壮 - 信仰.lrc"
+	},
+	{
+		"name": "忘情水",
+		"artist": "刘德华",
+		"url": "./music/刘德华 - 忘情水.mp3",
+		"cover": "./img/刘德华 - 忘情水.webp",
+		"lrc": "./lrc/刘德华 - 忘情水.lrc"
+	},
+	{
+		"name": "我很快乐",
+		"artist": "刘惜君",
+		"url": "./music/刘惜君 - 我很快乐.mp3",
+		"cover": "./img/刘惜君 - 我很快乐.webp",
+		"lrc": "./lrc/刘惜君 - 我很快乐.lrc"
+	},
+	{
+		"name": "半壶纱",
+		"artist": "刘珂矣",
+		"url": "./music/刘珂矣 - 半壶纱.mp3",
+		"cover": "./img/刘珂矣 - 半壶纱.webp",
+		"lrc": "./lrc/刘珂矣 - 半壶纱.lrc"
+	},
+	{
+		"name": "夏天的风 (Live)",
+		"artist": "刘瑞琦",
+		"url": "./music/刘瑞琦 - 夏天的风 (Live).mp3",
+		"cover": "./img/刘瑞琦 - 夏天的风 (Live).webp",
+		"lrc": "./lrc/刘瑞琦 - 夏天的风 (Live).lrc"
+	},
+	{
+		"name": "后来",
+		"artist": "刘若英",
+		"url": "./music/刘若英 - 后来.mp3",
+		"cover": "./img/刘若英 - 后来.webp",
+		"lrc": "./lrc/刘若英 - 后来.lrc"
+	},
+	{
+		"name": "烟火里的尘埃",
+		"artist": "华晨宇",
+		"url": "./music/华晨宇 - 烟火里的尘埃.mp3",
+		"cover": "./img/华晨宇 - 烟火里的尘埃.webp",
+		"lrc": "./lrc/华晨宇 - 烟火里的尘埃.lrc"
+	},
+	{
+		"name": "北京东路的日子",
+		"artist": "华语群星",
+		"url": "./music/华语群星 - 北京东路的日子.mp3",
+		"cover": "./img/华语群星 - 北京东路的日子.webp",
+		"lrc": "./lrc/华语群星 - 北京东路的日子.lrc"
+	},
+	{
+		"name": "意外",
+		"artist": "华语群星",
+		"url": "./music/华语群星 - 意外.mp3",
+		"cover": "./img/华语群星 - 意外.webp",
+		"lrc": "./lrc/华语群星 - 意外.lrc"
+	},
+	{
+		"name": "我的天空",
+		"artist": "南征北战NZBZ",
+		"url": "./music/南征北战NZBZ - 我的天空.mp3",
+		"cover": "./img/南征北战NZBZ - 我的天空.webp",
+		"lrc": "./lrc/南征北战NZBZ - 我的天空.lrc"
+	},
+	{
+		"name": "最后一页",
+		"artist": "南辰Music",
+		"url": "./music/南辰Music - 最后一页.mp3",
+		"cover": "./img/南辰Music - 最后一页.webp",
+		"lrc": "./lrc/南辰Music - 最后一页.lrc"
+	},
+	{
+		"name": "落空",
+		"artist": "印子月",
+		"url": "./music/印子月 - 落空.mp3",
+		"cover": "./img/印子月 - 落空.webp",
+		"lrc": "./lrc/印子月 - 落空.lrc"
+	},
+	{
+		"name": "江上清风游",
+		"artist": "变奏的梦想",
+		"url": "./music/变奏的梦想 - 江上清风游.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "必杀技",
+		"artist": "古巨基",
+		"url": "./music/古巨基 - 必杀技.mp3",
+		"cover": "./img/古巨基 - 必杀技.webp",
+		"lrc": "./lrc/古巨基 - 必杀技.lrc"
+	},
+	{
+		"name": "九张机",
+		"artist": "叶炫清",
+		"url": "./music/叶炫清 - 九张机.mp3",
+		"cover": "./img/叶炫清 - 九张机.webp",
+		"lrc": "./lrc/叶炫清 - 九张机.lrc"
+	},
+	{
+		"name": "归去来兮",
+		"artist": "叶炫清",
+		"url": "./music/叶炫清 - 归去来兮.mp3",
+		"cover": "./img/叶炫清 - 归去来兮.webp",
+		"lrc": "./lrc/叶炫清 - 归去来兮.lrc"
+	},
+	{
+		"name": "Highlight",
+		"artist": "吉克隽逸 _ 王者荣耀",
+		"url": "./music/吉克隽逸 _ 王者荣耀 - Highlight.mp3",
+		"cover": "./img/吉克隽逸 _ 王者荣耀 - Highlight.webp",
+		"lrc": "./lrc/吉克隽逸 _ 王者荣耀 - Highlight.lrc"
+	},
+	{
+		"name": "时间的过客",
+		"artist": "名决",
+		"url": "./music/名决 - 时间的过客.mp3",
+		"cover": "./img/名决 - 时间的过客.webp",
+		"lrc": "./lrc/名决 - 时间的过客.lrc"
+	},
+	{
+		"name": "篝火旁",
+		"artist": "吕大叶 _ 马子林Broma _ 陈觅Lynne _ 王以诺",
+		"url": "./music/吕大叶 _ 马子林Broma _ 陈觅Lynne _ 王以诺 - 篝火旁.mp3",
+		"cover": "./img/吕大叶 _ 马子林Broma _ 陈觅Lynne _ 王以诺 - 篝火旁.webp",
+		"lrc": "./lrc/吕大叶 _ 马子林Broma _ 陈觅Lynne _ 王以诺 - 篝火旁.lrc"
+	},
+	{
+		"name": "为你写诗",
+		"artist": "吴克群",
+		"url": "./music/吴克群 - 为你写诗.mp3",
+		"cover": "./img/吴克群 - 为你写诗.webp",
+		"lrc": "./lrc/吴克群 - 为你写诗.lrc"
+	},
+	{
+		"name": "如果声音不记得",
+		"artist": "吴青峰",
+		"url": "./music/吴青峰 - 如果声音不记得.mp3",
+		"cover": "./img/吴青峰 - 如果声音不记得.webp",
+		"lrc": "./lrc/吴青峰 - 如果声音不记得.lrc"
+	},
+	{
+		"name": "带我去找夜生活",
+		"artist": "告五人",
+		"url": "./music/告五人 - 带我去找夜生活.mp3",
+		"cover": "./img/告五人 - 带我去找夜生活.webp",
+		"lrc": "./lrc/告五人 - 带我去找夜生活.lrc"
+	},
+	{
+		"name": "寂寞沙洲冷",
+		"artist": "周传雄",
+		"url": "./music/周传雄 - 寂寞沙洲冷.mp3",
+		"cover": "./img/周传雄 - 寂寞沙洲冷.webp",
+		"lrc": "./lrc/周传雄 - 寂寞沙洲冷.lrc"
+	},
+	{
+		"name": "青花",
+		"artist": "周传雄",
+		"url": "./music/周传雄 - 青花.mp3",
+		"cover": "./img/周传雄 - 青花.webp",
+		"lrc": "./lrc/周传雄 - 青花.lrc"
+	},
+	{
+		"name": "黄昏",
+		"artist": "周传雄",
+		"url": "./music/周传雄 - 黄昏.mp3",
+		"cover": "./img/周传雄 - 黄昏.webp",
+		"lrc": "./lrc/周传雄 - 黄昏.lrc"
+	},
+	{
+		"name": "朋友",
+		"artist": "周华健",
+		"url": "./music/周华健 - 朋友.mp3",
+		"cover": "./img/周华健 - 朋友.webp",
+		"lrc": "./lrc/周华健 - 朋友.lrc"
+	},
+	{
+		"name": "有没有一首歌会让你想起我 (Live)",
+		"artist": "周华健 _ 张捷",
+		"url": "./music/周华健 _ 张捷 - 有没有一首歌会让你想起我 (Live).mp3",
+		"cover": "./img/周华健 _ 张捷 - 有没有一首歌会让你想起我 (Live).webp",
+		"lrc": "./lrc/周华健 _ 张捷 - 有没有一首歌会让你想起我 (Live).lrc"
+	},
+	{
+		"name": "过客",
+		"artist": "周思涵",
+		"url": "./music/周思涵 - 过客.mp3",
+		"cover": "./img/周思涵 - 过客.webp",
+		"lrc": "./lrc/周思涵 - 过客.lrc"
+	},
+	{
+		"name": "一路向北",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 一路向北.mp3",
+		"cover": "./img/周杰伦 - 一路向北.webp",
+		"lrc": "./lrc/周杰伦 - 一路向北.lrc"
+	},
+	{
+		"name": "七里香",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 七里香.mp3",
+		"cover": "./img/周杰伦 - 七里香.webp",
+		"lrc": "./lrc/周杰伦 - 七里香.lrc"
+	},
+	{
+		"name": "不能说的秘密",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 不能说的秘密.mp3",
+		"cover": "./img/周杰伦 - 不能说的秘密.webp",
+		"lrc": "./lrc/周杰伦 - 不能说的秘密.lrc"
+	},
+	{
+		"name": "兰亭序",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 兰亭序.mp3",
+		"cover": "./img/周杰伦 - 兰亭序.webp",
+		"lrc": "./lrc/周杰伦 - 兰亭序.lrc"
+	},
+	{
+		"name": "反方向的钟",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 反方向的钟.mp3",
+		"cover": "./img/周杰伦 - 反方向的钟.webp",
+		"lrc": "./lrc/周杰伦 - 反方向的钟.lrc"
+	},
+	{
+		"name": "发如雪",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 发如雪.mp3",
+		"cover": "./img/周杰伦 - 发如雪.webp",
+		"lrc": "./lrc/周杰伦 - 发如雪.lrc"
+	},
+	{
+		"name": "告白气球",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 告白气球.mp3",
+		"cover": "./img/周杰伦 - 告白气球.webp",
+		"lrc": "./lrc/周杰伦 - 告白气球.lrc"
+	},
+	{
+		"name": "夜曲",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 夜曲.mp3",
+		"cover": "./img/周杰伦 - 夜曲.webp",
+		"lrc": "./lrc/周杰伦 - 夜曲.lrc"
+	},
+	{
+		"name": "我是如此相信",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 我是如此相信.mp3",
+		"cover": "./img/周杰伦 - 我是如此相信.webp",
+		"lrc": "./lrc/周杰伦 - 我是如此相信.lrc"
+	},
+	{
+		"name": "我落泪情绪零碎",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 我落泪情绪零碎.mp3",
+		"cover": "./img/周杰伦 - 我落泪情绪零碎.webp",
+		"lrc": "./lrc/周杰伦 - 我落泪情绪零碎.lrc"
+	},
+	{
+		"name": "搁浅",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 搁浅.mp3",
+		"cover": "./img/周杰伦 - 搁浅.webp",
+		"lrc": "./lrc/周杰伦 - 搁浅.lrc"
+	},
+	{
+		"name": "明明就",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 明明就.mp3",
+		"cover": "./img/周杰伦 - 明明就.webp",
+		"lrc": "./lrc/周杰伦 - 明明就.lrc"
+	},
+	{
+		"name": "晴天",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 晴天.mp3",
+		"cover": "./img/周杰伦 - 晴天.webp",
+		"lrc": "./lrc/周杰伦 - 晴天.lrc"
+	},
+	{
+		"name": "最长的电影",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 最长的电影.mp3",
+		"cover": "./img/周杰伦 - 最长的电影.webp",
+		"lrc": "./lrc/周杰伦 - 最长的电影.lrc"
+	},
+	{
+		"name": "枫",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 枫.mp3",
+		"cover": "./img/周杰伦 - 枫.webp",
+		"lrc": "./lrc/周杰伦 - 枫.lrc"
+	},
+	{
+		"name": "烟花易冷",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 烟花易冷.mp3",
+		"cover": "./img/周杰伦 - 烟花易冷.webp",
+		"lrc": "./lrc/周杰伦 - 烟花易冷.lrc"
+	},
+	{
+		"name": "爱在西元前",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 爱在西元前.mp3",
+		"cover": "./img/周杰伦 - 爱在西元前.webp",
+		"lrc": "./lrc/周杰伦 - 爱在西元前.lrc"
+	},
+	{
+		"name": "稻香",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 稻香.mp3",
+		"cover": "./img/周杰伦 - 稻香.webp",
+		"lrc": "./lrc/周杰伦 - 稻香.lrc"
+	},
+	{
+		"name": "等你下课 (with 杨瑞代)",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 等你下课 (with 杨瑞代).mp3",
+		"cover": "./img/周杰伦 - 等你下课 (with 杨瑞代).webp",
+		"lrc": "./lrc/周杰伦 - 等你下课 (with 杨瑞代).lrc"
+	},
+	{
+		"name": "简单爱",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 简单爱.mp3",
+		"cover": "./img/周杰伦 - 简单爱.webp",
+		"lrc": "./lrc/周杰伦 - 简单爱.lrc"
+	},
+	{
+		"name": "红尘客栈",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 红尘客栈.mp3",
+		"cover": "./img/周杰伦 - 红尘客栈.webp",
+		"lrc": "./lrc/周杰伦 - 红尘客栈.lrc"
+	},
+	{
+		"name": "花海",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 花海.mp3",
+		"cover": "./img/周杰伦 - 花海.webp",
+		"lrc": "./lrc/周杰伦 - 花海.lrc"
+	},
+	{
+		"name": "蒲公英的约定",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 蒲公英的约定.mp3",
+		"cover": "./img/周杰伦 - 蒲公英的约定.webp",
+		"lrc": "./lrc/周杰伦 - 蒲公英的约定.lrc"
+	},
+	{
+		"name": "说好的幸福呢",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 说好的幸福呢.mp3",
+		"cover": "./img/周杰伦 - 说好的幸福呢.webp",
+		"lrc": "./lrc/周杰伦 - 说好的幸福呢.lrc"
+	},
+	{
+		"name": "退后",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 退后.mp3",
+		"cover": "./img/周杰伦 - 退后.webp",
+		"lrc": "./lrc/周杰伦 - 退后.lrc"
+	},
+	{
+		"name": "青花瓷",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 青花瓷.mp3",
+		"cover": "./img/周杰伦 - 青花瓷.webp",
+		"lrc": "./lrc/周杰伦 - 青花瓷.lrc"
+	},
+	{
+		"name": "龙卷风",
+		"artist": "周杰伦",
+		"url": "./music/周杰伦 - 龙卷风.mp3",
+		"cover": "./img/周杰伦 - 龙卷风.webp",
+		"lrc": "./lrc/周杰伦 - 龙卷风.lrc"
+	},
+	{
+		"name": "珊瑚海",
+		"artist": "周杰伦 _ Lara梁心颐",
+		"url": "./music/周杰伦 _ Lara梁心颐 - 珊瑚海.mp3",
+		"cover": "./img/周杰伦 _ Lara梁心颐 - 珊瑚海.webp",
+		"lrc": "./lrc/周杰伦 _ Lara梁心颐 - 珊瑚海.lrc"
+	},
+	{
+		"name": "不该 (with aMEI)",
+		"artist": "周杰伦 _ 张惠妹",
+		"url": "./music/周杰伦 _ 张惠妹 - 不该 (with aMEI).mp3",
+		"cover": "./img/周杰伦 _ 张惠妹 - 不该 (with aMEI).webp",
+		"lrc": "./lrc/周杰伦 _ 张惠妹 - 不该 (with aMEI).lrc"
+	},
+	{
+		"name": "和光同尘",
+		"artist": "周深",
+		"url": "./music/周深 - 和光同尘.mp3",
+		"cover": "./img/周深 - 和光同尘.webp",
+		"lrc": "./lrc/周深 - 和光同尘.lrc"
+	},
+	{
+		"name": "大鱼",
+		"artist": "周深",
+		"url": "./music/周深 - 大鱼.mp3",
+		"cover": "./img/周深 - 大鱼.webp",
+		"lrc": "./lrc/周深 - 大鱼.lrc"
+	},
+	{
+		"name": "最美的期待",
+		"artist": "周笔畅",
+		"url": "./music/周笔畅 - 最美的期待.mp3",
+		"cover": "./img/周笔畅 - 最美的期待.webp",
+		"lrc": "./lrc/周笔畅 - 最美的期待.lrc"
+	},
+	{
+		"name": "穿越曙光",
+		"artist": "唐丹",
+		"url": "./music/唐丹 - 穿越曙光.mp3",
+		"cover": "./img/唐丹 - 穿越曙光.webp",
+		"lrc": "./lrc/唐丹 - 穿越曙光.lrc"
+	},
+	{
+		"name": "落 (花开花落日升日没)",
+		"artist": "唐伯虎Annie",
+		"url": "./music/唐伯虎Annie - 落 (花开花落日升日没).mp3",
+		"cover": "./img/唐伯虎Annie - 落 (花开花落日升日没).webp",
+		"lrc": "./lrc/唐伯虎Annie - 落 (花开花落日升日没).lrc"
+	},
+	{
+		"name": "ninelie (Easylisteing)",
+		"artist": "嘉琪先生",
+		"url": "./music/嘉琪先生 - ninelie (Easylisteing).mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "探窗",
+		"artist": "国风新语 _ 浮生梦 _ 汐音社",
+		"url": "./music/国风新语 _ 浮生梦 _ 汐音社 - 探窗.mp3",
+		"cover": "./img/国风新语 _ 浮生梦 _ 汐音社 - 探窗.webp",
+		"lrc": "./lrc/国风新语 _ 浮生梦 _ 汐音社 - 探窗.lrc"
+	},
+	{
+		"name": "萤火飞光",
+		"artist": "圈9",
+		"url": "./music/圈9 - 萤火飞光.mp3",
+		"cover": "./img/圈9 - 萤火飞光.webp",
+		"lrc": "./lrc/圈9 - 萤火飞光.lrc"
+	},
+	{
+		"name": "入戏太深 (伴奏)",
+		"artist": "夏婉安",
+		"url": "./music/夏婉安 - 入戏太深 (伴奏).mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "飞 (Live)",
+		"artist": "大神慧",
+		"url": "./music/大神慧 - 飞 (Live).mp3",
+		"cover": "./img/大神慧 - 飞 (Live).webp",
+		"lrc": "./lrc/大神慧 - 飞 (Live).lrc"
+	},
+	{
+		"name": "愿你被岁月温柔以待 (DJ版)",
+		"artist": "姜昕妤",
+		"url": "./music/姜昕妤 - 愿你被岁月温柔以待 (DJ版).mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "这个夏天",
+		"artist": "威仔 _ 夏婉安",
+		"url": "./music/威仔 _ 夏婉安 - 这个夏天.mp3",
+		"cover": "./img/威仔 _ 夏婉安 - 这个夏天.webp",
+		"lrc": "./lrc/威仔 _ 夏婉安 - 这个夏天.lrc"
+	},
+	{
+		"name": "好想爱这个世界啊 (COVER版)",
+		"artist": "娄振宇",
+		"url": "./music/娄振宇 - 好想爱这个世界啊 (COVER版).mp3",
+		"cover": "./img/娄振宇 - 好想爱这个世界啊 (COVER版).webp",
+		"lrc": "./lrc/娄振宇 - 好想爱这个世界啊 (COVER版).lrc"
+	},
+	{
+		"name": "美丽的神话",
+		"artist": "孙楠 _ 韩红",
+		"url": "./music/孙楠 _ 韩红 - 美丽的神话.mp3",
+		"cover": "./img/孙楠 _ 韩红 - 美丽的神话.webp",
+		"lrc": "./lrc/孙楠 _ 韩红 - 美丽的神话.lrc"
+	},
+	{
+		"name": "开始懂了",
+		"artist": "孙燕姿",
+		"url": "./music/孙燕姿 - 开始懂了.mp3",
+		"cover": "./img/孙燕姿 - 开始懂了.webp",
+		"lrc": "./lrc/孙燕姿 - 开始懂了.lrc"
+	},
+	{
+		"name": "遇见",
+		"artist": "孙燕姿",
+		"url": "./music/孙燕姿 - 遇见.mp3",
+		"cover": "./img/孙燕姿 - 遇见.webp",
+		"lrc": "./lrc/孙燕姿 - 遇见.lrc"
+	},
+	{
+		"name": "雨天",
+		"artist": "孙燕姿",
+		"url": "./music/孙燕姿 - 雨天.mp3",
+		"cover": "./img/孙燕姿 - 雨天.webp",
+		"lrc": "./lrc/孙燕姿 - 雨天.lrc"
+	},
+	{
+		"name": "少一点天份",
+		"artist": "孙盛希",
+		"url": "./music/孙盛希 - 少一点天份.mp3",
+		"cover": "./img/孙盛希 - 少一点天份.webp",
+		"lrc": "./lrc/孙盛希 - 少一点天份.lrc"
+	},
+	{
+		"name": "爱的故事.上集",
+		"artist": "孙耀威",
+		"url": "./music/孙耀威 - 爱的故事.上集.mp3",
+		"cover": "./img/孙耀威 - 爱的故事.上集.webp",
+		"lrc": "./lrc/孙耀威 - 爱的故事.上集.lrc"
+	},
+	{
+		"name": "赤伶 (弹唱版)",
+		"artist": "孙鹏凯",
+		"url": "./music/孙鹏凯 - 赤伶 (弹唱版).mp3",
+		"cover": "./img/孙鹏凯 - 赤伶 (弹唱版).webp",
+		"lrc": "./lrc/孙鹏凯 - 赤伶 (弹唱版).lrc"
+	},
+	{
+		"name": "选择失忆",
+		"artist": "季彦霖",
+		"url": "./music/季彦霖 - 选择失忆.mp3",
+		"cover": "./img/季彦霖 - 选择失忆.webp",
+		"lrc": "./lrc/季彦霖 - 选择失忆.lrc"
+	},
+	{
+		"name": "月亮之矢",
+		"artist": "孤矢 _ 虞娱",
+		"url": "./music/孤矢 _ 虞娱 - 月亮之矢.mp3",
+		"cover": "./img/孤矢 _ 虞娱 - 月亮之矢.webp",
+		"lrc": "./lrc/孤矢 _ 虞娱 - 月亮之矢.lrc"
+	},
+	{
+		"name": "天使的翅膀",
+		"artist": "安琥",
+		"url": "./music/安琥 - 天使的翅膀.mp3",
+		"cover": "./img/安琥 - 天使的翅膀.webp",
+		"lrc": "./lrc/安琥 - 天使的翅膀.lrc"
+	},
+	{
+		"name": "命运 (Live)",
+		"artist": "家家",
+		"url": "./music/家家 - 命运 (Live).mp3",
+		"cover": "./img/家家 - 命运 (Live).webp",
+		"lrc": "./lrc/家家 - 命运 (Live).lrc"
+	},
+	{
+		"name": "挥着翅膀的女孩",
+		"artist": "容祖儿",
+		"url": "./music/容祖儿 - 挥着翅膀的女孩.mp3",
+		"cover": "./img/容祖儿 - 挥着翅膀的女孩.webp",
+		"lrc": "./lrc/容祖儿 - 挥着翅膀的女孩.lrc"
+	},
+	{
+		"name": "慢慢",
+		"artist": "小乐哥（王唯乐）",
+		"url": "./music/小乐哥（王唯乐） - 慢慢.mp3",
+		"cover": "./img/小乐哥（王唯乐） - 慢慢.webp",
+		"lrc": "./lrc/小乐哥（王唯乐） - 慢慢.lrc"
+	},
+	{
+		"name": "落单恋人",
+		"artist": "小小浩 _ 欧阳朵",
+		"url": "./music/小小浩 _ 欧阳朵 - 落单恋人.mp3",
+		"cover": "./img/小小浩 _ 欧阳朵 - 落单恋人.webp",
+		"lrc": "./lrc/小小浩 _ 欧阳朵 - 落单恋人.lrc"
+	},
+	{
+		"name": "杀死那个石家庄人 (Live)",
+		"artist": "就是南方凯",
+		"url": "./music/就是南方凯 - 杀死那个石家庄人 (Live).mp3",
+		"cover": "./img/就是南方凯 - 杀死那个石家庄人 (Live).webp",
+		"lrc": "./lrc/就是南方凯 - 杀死那个石家庄人 (Live).lrc"
+	},
+	{
+		"name": "求佛 (新版)",
+		"artist": "就是南方凯",
+		"url": "./music/就是南方凯 - 求佛 (新版).mp3",
+		"cover": "./img/就是南方凯 - 求佛 (新版).webp",
+		"lrc": "./lrc/就是南方凯 - 求佛 (新版).lrc"
+	},
+	{
+		"name": "西楼别序",
+		"artist": "尹昔眠 _ 小田音乐社",
+		"url": "./music/尹昔眠 _ 小田音乐社 - 西楼别序.mp3",
+		"cover": "./img/尹昔眠 _ 小田音乐社 - 西楼别序.webp",
+		"lrc": "./lrc/尹昔眠 _ 小田音乐社 - 西楼别序.lrc"
+	},
+	{
+		"name": "难却",
+		"artist": "平生不晚",
+		"url": "./music/平生不晚 - 难却.mp3",
+		"cover": "./img/平生不晚 - 难却.webp",
+		"lrc": "./lrc/平生不晚 - 难却.lrc"
+	},
+	{
+		"name": "广东爱情故事",
+		"artist": "广东雨神",
+		"url": "./music/广东雨神 - 广东爱情故事.mp3",
+		"cover": "./img/广东雨神 - 广东爱情故事.webp",
+		"lrc": "./lrc/广东雨神 - 广东爱情故事.lrc"
+	},
+	{
+		"name": "单车 (DJ版)",
+		"artist": "庄心妍",
+		"url": "./music/庄心妍 - 单车 (DJ版).mp3",
+		"cover": "./img/庄心妍 - 单车 (DJ版).webp",
+		"lrc": "./lrc/庄心妍 - 单车 (DJ版).lrc"
+	},
+	{
+		"name": "别怕我伤心",
+		"artist": "张信哲",
+		"url": "./music/张信哲 - 别怕我伤心.mp3",
+		"cover": "./img/张信哲 - 别怕我伤心.webp",
+		"lrc": "./lrc/张信哲 - 别怕我伤心.lrc"
+	},
+	{
+		"name": "爱如潮水",
+		"artist": "张信哲",
+		"url": "./music/张信哲 - 爱如潮水.mp3",
+		"cover": "./img/张信哲 - 爱如潮水.webp",
+		"lrc": "./lrc/张信哲 - 爱如潮水.lrc"
+	},
+	{
+		"name": "爱就一个字",
+		"artist": "张信哲",
+		"url": "./music/张信哲 - 爱就一个字.mp3",
+		"cover": "./img/张信哲 - 爱就一个字.webp",
+		"lrc": "./lrc/张信哲 - 爱就一个字.lrc"
+	},
+	{
+		"name": "过火",
+		"artist": "张信哲",
+		"url": "./music/张信哲 - 过火.mp3",
+		"cover": "./img/张信哲 - 过火.webp",
+		"lrc": "./lrc/张信哲 - 过火.lrc"
+	},
+	{
+		"name": "举镜子的女孩",
+		"artist": "张子枫",
+		"url": "./music/张子枫 - 举镜子的女孩.mp3",
+		"cover": "./img/张子枫 - 举镜子的女孩.webp",
+		"lrc": "./lrc/张子枫 - 举镜子的女孩.lrc"
+	},
+	{
+		"name": "月亮惹的祸",
+		"artist": "张宇",
+		"url": "./music/张宇 - 月亮惹的祸.mp3",
+		"cover": "./img/张宇 - 月亮惹的祸.webp",
+		"lrc": "./lrc/张宇 - 月亮惹的祸.lrc"
+	},
+	{
+		"name": "雨一直下",
+		"artist": "张宇",
+		"url": "./music/张宇 - 雨一直下.mp3",
+		"cover": "./img/张宇 - 雨一直下.webp",
+		"lrc": "./lrc/张宇 - 雨一直下.lrc"
+	},
+	{
+		"name": "天下",
+		"artist": "张杰",
+		"url": "./music/张杰 - 天下.mp3",
+		"cover": "./img/张杰 - 天下.webp",
+		"lrc": "./lrc/张杰 - 天下.lrc"
+	},
+	{
+		"name": "逆战",
+		"artist": "张杰",
+		"url": "./music/张杰 - 逆战.mp3",
+		"cover": "./img/张杰 - 逆战.webp",
+		"lrc": "./lrc/张杰 - 逆战.lrc"
+	},
+	{
+		"name": "骗",
+		"artist": "张碧晨",
+		"url": "./music/张碧晨 - 骗.mp3",
+		"cover": "./img/张碧晨 - 骗.webp",
+		"lrc": "./lrc/张碧晨 - 骗.lrc"
+	},
+	{
+		"name": "可不可以",
+		"artist": "张紫豪",
+		"url": "./music/张紫豪 - 可不可以.mp3",
+		"cover": "./img/张紫豪 - 可不可以.webp",
+		"lrc": "./lrc/张紫豪 - 可不可以.lrc"
+	},
+	{
+		"name": "偏爱",
+		"artist": "张芸京",
+		"url": "./music/张芸京 - 偏爱.mp3",
+		"cover": "./img/张芸京 - 偏爱.webp",
+		"lrc": "./lrc/张芸京 - 偏爱.lrc"
+	},
+	{
+		"name": "大海",
+		"artist": "张雨生",
+		"url": "./music/张雨生 - 大海.mp3",
+		"cover": "./img/张雨生 - 大海.webp",
+		"lrc": "./lrc/张雨生 - 大海.lrc"
+	},
+	{
+		"name": "我的未来不是梦",
+		"artist": "张雨生",
+		"url": "./music/张雨生 - 我的未来不是梦.mp3",
+		"cover": "./img/张雨生 - 我的未来不是梦.webp",
+		"lrc": "./lrc/张雨生 - 我的未来不是梦.lrc"
+	},
+	{
+		"name": "如果这就是爱情",
+		"artist": "张靓颖",
+		"url": "./music/张靓颖 - 如果这就是爱情.mp3",
+		"cover": "./img/张靓颖 - 如果这就是爱情.webp",
+		"lrc": "./lrc/张靓颖 - 如果这就是爱情.lrc"
+	},
+	{
+		"name": "女儿国",
+		"artist": "张靓颖 _ 李荣浩",
+		"url": "./music/张靓颖 _ 李荣浩 - 女儿国.mp3",
+		"cover": "./img/张靓颖 _ 李荣浩 - 女儿国.webp",
+		"lrc": "./lrc/张靓颖 _ 李荣浩 - 女儿国.lrc"
+	},
+	{
+		"name": "隐形的翅膀",
+		"artist": "张韶涵",
+		"url": "./music/张韶涵 - 隐形的翅膀.mp3",
+		"cover": "./img/张韶涵 - 隐形的翅膀.webp",
+		"lrc": "./lrc/张韶涵 - 隐形的翅膀.lrc"
+	},
+	{
+		"name": "最美的瞬间 (女版)",
+		"artist": "弹棉花的小花",
+		"url": "./music/弹棉花的小花 - 最美的瞬间 (女版).mp3",
+		"cover": "./img/弹棉花的小花 - 最美的瞬间 (女版).webp",
+		"lrc": "./lrc/弹棉花的小花 - 最美的瞬间 (女版).lrc"
+	},
+	{
+		"name": "斗战胜佛【致大圣归来】",
+		"artist": "归墟原创团队",
+		"url": "./music/归墟原创团队 - 斗战胜佛【致大圣归来】.mp3",
+		"cover": "./img/归墟原创团队 - 斗战胜佛【致大圣归来】.webp",
+		"lrc": "./lrc/归墟原创团队 - 斗战胜佛【致大圣归来】.lrc"
+	},
+	{
+		"name": "Everytime We Touch",
+		"artist": "录音吉娃娃 _ 谢子新",
+		"url": "./music/录音吉娃娃 _ 谢子新 - Everytime We Touch.mp3",
+		"cover": "./img/录音吉娃娃 _ 谢子新 - Everytime We Touch.webp",
+		"lrc": "./lrc/录音吉娃娃 _ 谢子新 - Everytime We Touch.lrc"
+	},
+	{
+		"name": "一样的月光",
+		"artist": "徐佳莹",
+		"url": "./music/徐佳莹 - 一样的月光.mp3",
+		"cover": "./img/徐佳莹 - 一样的月光.webp",
+		"lrc": "./lrc/徐佳莹 - 一样的月光.lrc"
+	},
+	{
+		"name": "身骑白马",
+		"artist": "徐佳莹",
+		"url": "./music/徐佳莹 - 身骑白马.mp3",
+		"cover": "./img/徐佳莹 - 身骑白马.webp",
+		"lrc": "./lrc/徐佳莹 - 身骑白马.lrc"
+	},
+	{
+		"name": "ninelie (Easylistening)",
+		"artist": "徐梦圆",
+		"url": "./music/徐梦圆 - ninelie (Easylistening).mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "坏女孩",
+		"artist": "徐良 _ 小凌",
+		"url": "./music/徐良 _ 小凌 - 坏女孩.mp3",
+		"cover": "./img/徐良 _ 小凌 - 坏女孩.webp",
+		"lrc": "./lrc/徐良 _ 小凌 - 坏女孩.lrc"
+	},
+	{
+		"name": "客官不可以",
+		"artist": "徐良,小凌",
+		"url": "./music/徐良,小凌 - 客官不可以.mp3",
+		"cover": "./img/徐良,小凌 - 客官不可以.webp",
+		"lrc": "./lrc/徐良,小凌 - 客官不可以.lrc"
+	},
+	{
+		"name": "等一分钟",
+		"artist": "徐誉滕",
+		"url": "./music/徐誉滕 - 等一分钟.mp3",
+		"cover": "./img/徐誉滕 - 等一分钟.webp",
+		"lrc": "./lrc/徐誉滕 - 等一分钟.lrc"
+	},
+	{
+		"name": "放纵L",
+		"artist": "怪阿姨",
+		"url": "./music/怪阿姨 - 放纵L.mp3",
+		"cover": "./img/怪阿姨 - 放纵L.webp",
+		"lrc": "./lrc/怪阿姨 - 放纵L.lrc"
+	},
+	{
+		"name": "在你的身边 (0_8x)",
+		"artist": "慢热的气球",
+		"url": "./music/慢热的气球 - 在你的身边 (0_8x).mp3",
+		"cover": "./img/慢热的气球 - 在你的身边 (0_8x).webp",
+		"lrc": "./lrc/慢热的气球 - 在你的身边 (0_8x).lrc"
+	},
+	{
+		"name": "真心英雄",
+		"artist": "成龙 _ 周华健 _ 李宗盛",
+		"url": "./music/成龙 _ 周华健 _ 李宗盛 - 真心英雄.mp3",
+		"cover": "./img/成龙 _ 周华健 _ 李宗盛 - 真心英雄.webp",
+		"lrc": "./lrc/成龙 _ 周华健 _ 李宗盛 - 真心英雄.lrc"
+	},
+	{
+		"name": "如果爱忘了",
+		"artist": "戚薇",
+		"url": "./music/戚薇 - 如果爱忘了.mp3",
+		"cover": "./img/戚薇 - 如果爱忘了.webp",
+		"lrc": "./lrc/戚薇 - 如果爱忘了.lrc"
+	},
+	{
+		"name": "来迟",
+		"artist": "戴羽彤",
+		"url": "./music/戴羽彤 - 来迟.mp3",
+		"cover": "./img/戴羽彤 - 来迟.webp",
+		"lrc": "./lrc/戴羽彤 - 来迟.lrc"
+	},
+	{
+		"name": "星光就在前方 (Live合唱版)",
+		"artist": "抠抠",
+		"url": "./music/抠抠 - 星光就在前方 (Live合唱版).mp3",
+		"cover": "./img/抠抠 - 星光就在前方 (Live合唱版).webp",
+		"lrc": "./lrc/抠抠 - 星光就在前方 (Live合唱版).lrc"
+	},
+	{
+		"name": "不问别离",
+		"artist": "指尖笑",
+		"url": "./music/指尖笑 - 不问别离.mp3",
+		"cover": "./img/指尖笑 - 不问别离.webp",
+		"lrc": "./lrc/指尖笑 - 不问别离.lrc"
+	},
+	{
+		"name": "青丝",
+		"artist": "时光胶囊",
+		"url": "./music/时光胶囊 - 青丝.mp3",
+		"cover": "./img/时光胶囊 - 青丝.webp",
+		"lrc": "./lrc/时光胶囊 - 青丝.lrc"
+	},
+	{
+		"name": "为敌",
+		"artist": "旺仔小乔",
+		"url": "./music/旺仔小乔 - 为敌.mp3",
+		"cover": "./img/旺仔小乔 - 为敌.webp",
+		"lrc": "./lrc/旺仔小乔 - 为敌.lrc"
+	},
+	{
+		"name": "樱花树下的约定",
+		"artist": "旺仔小乔",
+		"url": "./music/旺仔小乔 - 樱花树下的约定.mp3",
+		"cover": "./img/旺仔小乔 - 樱花树下的约定.webp",
+		"lrc": "./lrc/旺仔小乔 - 樱花树下的约定.lrc"
+	},
+	{
+		"name": "沦陷",
+		"artist": "旺仔小乔",
+		"url": "./music/旺仔小乔 - 沦陷.mp3",
+		"cover": "./img/旺仔小乔 - 沦陷.webp",
+		"lrc": "./lrc/旺仔小乔 - 沦陷.lrc"
+	},
+	{
+		"name": "不再联系",
+		"artist": "明歆悦",
+		"url": "./music/明歆悦 - 不再联系.mp3",
+		"cover": "./img/明歆悦 - 不再联系.webp",
+		"lrc": "./lrc/明歆悦 - 不再联系.lrc"
+	},
+	{
+		"name": "Jar Of Love (Album Version)",
+		"artist": "曲婉婷",
+		"url": "./music/曲婉婷 - Jar Of Love (Album Version).mp3",
+		"cover": "./img/曲婉婷 - Jar Of Love (Album Version).webp",
+		"lrc": "./lrc/曲婉婷 - Jar Of Love (Album Version).lrc"
+	},
+	{
+		"name": "厚颜无耻",
+		"artist": "曲肖冰",
+		"url": "./music/曲肖冰 - 厚颜无耻.mp3",
+		"cover": "./img/曲肖冰 - 厚颜无耻.webp",
+		"lrc": "./lrc/曲肖冰 - 厚颜无耻.lrc"
+	},
+	{
+		"name": "谁",
+		"artist": "曲肖冰",
+		"url": "./music/曲肖冰 - 谁.mp3",
+		"cover": "./img/曲肖冰 - 谁.webp",
+		"lrc": "./lrc/曲肖冰 - 谁.lrc"
+	},
+	{
+		"name": "江湖之间",
+		"artist": "曹雨航 _ 朝歌夜弦",
+		"url": "./music/曹雨航 _ 朝歌夜弦 - 江湖之间.mp3",
+		"cover": "./img/曹雨航 _ 朝歌夜弦 - 江湖之间.webp",
+		"lrc": "./lrc/曹雨航 _ 朝歌夜弦 - 江湖之间.lrc"
+	},
+	{
+		"name": "平凡之路",
+		"artist": "朴树",
+		"url": "./music/朴树 - 平凡之路.mp3",
+		"cover": "./img/朴树 - 平凡之路.webp",
+		"lrc": "./lrc/朴树 - 平凡之路.lrc"
+	},
+	{
+		"name": "红日 (粤语)",
+		"artist": "李克勤",
+		"url": "./music/李克勤 - 红日 (粤语).mp3",
+		"cover": "./img/李克勤 - 红日 (粤语).webp",
+		"lrc": "./lrc/李克勤 - 红日 (粤语).lrc"
+	},
+	{
+		"name": "盗墓笔记·十年人间",
+		"artist": "李常超 (Lao乾妈)",
+		"url": "./music/李常超 (Lao乾妈) - 盗墓笔记·十年人间.mp3",
+		"cover": "./img/李常超 (Lao乾妈) - 盗墓笔记·十年人间.webp",
+		"lrc": "./lrc/李常超 (Lao乾妈) - 盗墓笔记·十年人间.lrc"
+	},
+	{
+		"name": "星空坠落",
+		"artist": "李灿松",
+		"url": "./music/李灿松 - 星空坠落.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "匿名的好友",
+		"artist": "杨丞琳",
+		"url": "./music/杨丞琳 - 匿名的好友.mp3",
+		"cover": "./img/杨丞琳 - 匿名的好友.webp",
+		"lrc": "./lrc/杨丞琳 - 匿名的好友.lrc"
+	},
+	{
+		"name": "带我走",
+		"artist": "杨丞琳",
+		"url": "./music/杨丞琳 - 带我走.mp3",
+		"cover": "./img/杨丞琳 - 带我走.webp",
+		"lrc": "./lrc/杨丞琳 - 带我走.lrc"
+	},
+	{
+		"name": "雨爱",
+		"artist": "杨丞琳",
+		"url": "./music/杨丞琳 - 雨爱.mp3",
+		"cover": "./img/杨丞琳 - 雨爱.webp",
+		"lrc": "./lrc/杨丞琳 - 雨爱.lrc"
+	},
+	{
+		"name": "如愿 (Live)",
+		"artist": "杨丞琳 _ 胡宇桐 _ 李润祺",
+		"url": "./music/杨丞琳 _ 胡宇桐 _ 李润祺 - 如愿 (Live).mp3",
+		"cover": "./img/杨丞琳 _ 胡宇桐 _ 李润祺 - 如愿 (Live).webp",
+		"lrc": "./lrc/杨丞琳 _ 胡宇桐 _ 李润祺 - 如愿 (Live).lrc"
+	},
+	{
+		"name": "处处吻",
+		"artist": "杨千嬅",
+		"url": "./music/杨千嬅 - 处处吻.mp3",
+		"cover": "./img/杨千嬅 - 处处吻.webp",
+		"lrc": "./lrc/杨千嬅 - 处处吻.lrc"
+	},
+	{
+		"name": "春泥 (Live)",
+		"artist": "杨美娜",
+		"url": "./music/杨美娜 - 春泥 (Live).mp3",
+		"cover": "./img/杨美娜 - 春泥 (Live).webp",
+		"lrc": "./lrc/杨美娜 - 春泥 (Live).lrc"
+	},
+	{
+		"name": "一千年以后",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 一千年以后.mp3",
+		"cover": "./img/林俊杰 - 一千年以后.webp",
+		"lrc": "./lrc/林俊杰 - 一千年以后.lrc"
+	},
+	{
+		"name": "不为谁而作的歌",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 不为谁而作的歌.mp3",
+		"cover": "./img/林俊杰 - 不为谁而作的歌.webp",
+		"lrc": "./lrc/林俊杰 - 不为谁而作的歌.lrc"
+	},
+	{
+		"name": "不潮不用花钱",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 不潮不用花钱.mp3",
+		"cover": "./img/林俊杰 - 不潮不用花钱.webp",
+		"lrc": "./lrc/林俊杰 - 不潮不用花钱.lrc"
+	},
+	{
+		"name": "修炼爱情",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 修炼爱情.mp3",
+		"cover": "./img/林俊杰 - 修炼爱情.webp",
+		"lrc": "./lrc/林俊杰 - 修炼爱情.lrc"
+	},
+	{
+		"name": "可惜没如果",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 可惜没如果.mp3",
+		"cover": "./img/林俊杰 - 可惜没如果.webp",
+		"lrc": "./lrc/林俊杰 - 可惜没如果.lrc"
+	},
+	{
+		"name": "她说",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 她说.mp3",
+		"cover": "./img/林俊杰 - 她说.webp",
+		"lrc": "./lrc/林俊杰 - 她说.lrc"
+	},
+	{
+		"name": "学不会",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 学不会.mp3",
+		"cover": "./img/林俊杰 - 学不会.webp",
+		"lrc": "./lrc/林俊杰 - 学不会.lrc"
+	},
+	{
+		"name": "小酒窝",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 小酒窝.mp3",
+		"cover": "./img/林俊杰 - 小酒窝.webp",
+		"lrc": "./lrc/林俊杰 - 小酒窝.lrc"
+	},
+	{
+		"name": "心墙",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 心墙.mp3",
+		"cover": "./img/林俊杰 - 心墙.webp",
+		"lrc": "./lrc/林俊杰 - 心墙.lrc"
+	},
+	{
+		"name": "曹操",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 曹操.mp3",
+		"cover": "./img/林俊杰 - 曹操.webp",
+		"lrc": "./lrc/林俊杰 - 曹操.lrc"
+	},
+	{
+		"name": "江南",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 江南.mp3",
+		"cover": "./img/林俊杰 - 江南.webp",
+		"lrc": "./lrc/林俊杰 - 江南.lrc"
+	},
+	{
+		"name": "浪漫血液",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 浪漫血液.mp3",
+		"cover": "./img/林俊杰 - 浪漫血液.webp",
+		"lrc": "./lrc/林俊杰 - 浪漫血液.lrc"
+	},
+	{
+		"name": "爱笑的眼睛",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 爱笑的眼睛.mp3",
+		"cover": "./img/林俊杰 - 爱笑的眼睛.webp",
+		"lrc": "./lrc/林俊杰 - 爱笑的眼睛.lrc"
+	},
+	{
+		"name": "美人鱼",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 美人鱼.mp3",
+		"cover": "./img/林俊杰 - 美人鱼.webp",
+		"lrc": "./lrc/林俊杰 - 美人鱼.lrc"
+	},
+	{
+		"name": "背对背拥抱",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 背对背拥抱.mp3",
+		"cover": "./img/林俊杰 - 背对背拥抱.webp",
+		"lrc": "./lrc/林俊杰 - 背对背拥抱.lrc"
+	},
+	{
+		"name": "那些你很冒险的梦",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 那些你很冒险的梦.mp3",
+		"cover": "./img/林俊杰 - 那些你很冒险的梦.webp",
+		"lrc": "./lrc/林俊杰 - 那些你很冒险的梦.lrc"
+	},
+	{
+		"name": "醉赤壁",
+		"artist": "林俊杰",
+		"url": "./music/林俊杰 - 醉赤壁.mp3",
+		"cover": "./img/林俊杰 - 醉赤壁.webp",
+		"lrc": "./lrc/林俊杰 - 醉赤壁.lrc"
+	},
+	{
+		"name": "手心的蔷薇",
+		"artist": "林俊杰 _ G_E_M_ 邓紫棋",
+		"url": "./music/林俊杰 _ G_E_M_ 邓紫棋 - 手心的蔷薇.mp3",
+		"cover": "./img/林俊杰 _ G_E_M_ 邓紫棋 - 手心的蔷薇.webp",
+		"lrc": "./lrc/林俊杰 _ G_E_M_ 邓紫棋 - 手心的蔷薇.lrc"
+	},
+	{
+		"name": "为你我受冷风吹",
+		"artist": "林忆莲",
+		"url": "./music/林忆莲 - 为你我受冷风吹.mp3",
+		"cover": "./img/林忆莲 - 为你我受冷风吹.webp",
+		"lrc": "./lrc/林忆莲 - 为你我受冷风吹.lrc"
+	},
+	{
+		"name": "至少还有你",
+		"artist": "林忆莲",
+		"url": "./music/林忆莲 - 至少还有你.mp3",
+		"cover": "./img/林忆莲 - 至少还有你.webp",
+		"lrc": "./lrc/林忆莲 - 至少还有你.lrc"
+	},
+	{
+		"name": "一点归鸿 (柯柯吉他版)",
+		"artist": "柯柯柯啊",
+		"url": "./music/柯柯柯啊 - 一点归鸿 (柯柯吉他版).mp3",
+		"cover": "./img/柯柯柯啊 - 一点归鸿 (柯柯吉他版).webp",
+		"lrc": "./lrc/柯柯柯啊 - 一点归鸿 (柯柯吉他版).lrc"
+	},
+	{
+		"name": "大海 (柯柯吉他版)",
+		"artist": "柯柯柯啊",
+		"url": "./music/柯柯柯啊 - 大海 (柯柯吉他版).mp3",
+		"cover": "./img/柯柯柯啊 - 大海 (柯柯吉他版).webp",
+		"lrc": "./lrc/柯柯柯啊 - 大海 (柯柯吉他版).lrc"
+	},
+	{
+		"name": "那一别你眉轻抚",
+		"artist": "格雷西西西",
+		"url": "./music/格雷西西西 - 那一别你眉轻抚.mp3",
+		"cover": "./img/格雷西西西 - 那一别你眉轻抚.webp",
+		"lrc": "./lrc/格雷西西西 - 那一别你眉轻抚.lrc"
+	},
+	{
+		"name": "偶阵雨",
+		"artist": "梁静茹",
+		"url": "./music/梁静茹 - 偶阵雨.mp3",
+		"cover": "./img/梁静茹 - 偶阵雨.webp",
+		"lrc": "./lrc/梁静茹 - 偶阵雨.lrc"
+	},
+	{
+		"name": "分手快乐",
+		"artist": "梁静茹",
+		"url": "./music/梁静茹 - 分手快乐.mp3",
+		"cover": "./img/梁静茹 - 分手快乐.webp",
+		"lrc": "./lrc/梁静茹 - 分手快乐.lrc"
+	},
+	{
+		"name": "勇气",
+		"artist": "梁静茹",
+		"url": "./music/梁静茹 - 勇气.mp3",
+		"cover": "./img/梁静茹 - 勇气.webp",
+		"lrc": "./lrc/梁静茹 - 勇气.lrc"
+	},
+	{
+		"name": "可惜不是你",
+		"artist": "梁静茹",
+		"url": "./music/梁静茹 - 可惜不是你.mp3",
+		"cover": "./img/梁静茹 - 可惜不是你.webp",
+		"lrc": "./lrc/梁静茹 - 可惜不是你.lrc"
+	},
+	{
+		"name": "宁夏",
+		"artist": "梁静茹",
+		"url": "./music/梁静茹 - 宁夏.mp3",
+		"cover": "./img/梁静茹 - 宁夏.webp",
+		"lrc": "./lrc/梁静茹 - 宁夏.lrc"
+	},
+	{
+		"name": "情歌",
+		"artist": "梁静茹",
+		"url": "./music/梁静茹 - 情歌.mp3",
+		"cover": "./img/梁静茹 - 情歌.webp",
+		"lrc": "./lrc/梁静茹 - 情歌.lrc"
+	},
+	{
+		"name": "暖暖",
+		"artist": "梁静茹",
+		"url": "./music/梁静茹 - 暖暖.mp3",
+		"cover": "./img/梁静茹 - 暖暖.webp",
+		"lrc": "./lrc/梁静茹 - 暖暖.lrc"
+	},
+	{
+		"name": "梦醒时分 (2007“理性与感性”Live)",
+		"artist": "梁静茹",
+		"url": "./music/梁静茹 - 梦醒时分 (2007“理性与感性”Live).mp3",
+		"cover": "./img/梁静茹 - 梦醒时分 (2007“理性与感性”Live).webp",
+		"lrc": "./lrc/梁静茹 - 梦醒时分 (2007“理性与感性”Live).lrc"
+	},
+	{
+		"name": "不染",
+		"artist": "毛不易",
+		"url": "./music/毛不易 - 不染.mp3",
+		"cover": "./img/毛不易 - 不染.webp",
+		"lrc": "./lrc/毛不易 - 不染.lrc"
+	},
+	{
+		"name": "牧马城市",
+		"artist": "毛不易",
+		"url": "./music/毛不易 - 牧马城市.mp3",
+		"cover": "./img/毛不易 - 牧马城市.webp",
+		"lrc": "./lrc/毛不易 - 牧马城市.lrc"
+	},
+	{
+		"name": "一生有你",
+		"artist": "水木年华",
+		"url": "./music/水木年华 - 一生有你.mp3",
+		"cover": "./img/水木年华 - 一生有你.webp",
+		"lrc": "./lrc/水木年华 - 一生有你.lrc"
+	},
+	{
+		"name": "梦里水乡",
+		"artist": "江珊",
+		"url": "./music/江珊 - 梦里水乡.mp3",
+		"cover": "./img/江珊 - 梦里水乡.webp",
+		"lrc": "./lrc/江珊 - 梦里水乡.lrc"
+	},
+	{
+		"name": "最后一页",
+		"artist": "江语晨",
+		"url": "./music/江语晨 - 最后一页.mp3",
+		"cover": "./img/江语晨 - 最后一页.webp",
+		"lrc": "./lrc/江语晨 - 最后一页.lrc"
+	},
+	{
+		"name": "一笑倾城",
+		"artist": "汪苏泷",
+		"url": "./music/汪苏泷 - 一笑倾城.mp3",
+		"cover": "./img/汪苏泷 - 一笑倾城.webp",
+		"lrc": "./lrc/汪苏泷 - 一笑倾城.lrc"
+	},
+	{
+		"name": "不分手的恋爱",
+		"artist": "汪苏泷",
+		"url": "./music/汪苏泷 - 不分手的恋爱.mp3",
+		"cover": "./img/汪苏泷 - 不分手的恋爱.webp",
+		"lrc": "./lrc/汪苏泷 - 不分手的恋爱.lrc"
+	},
+	{
+		"name": "年轮",
+		"artist": "汪苏泷",
+		"url": "./music/汪苏泷 - 年轮.mp3",
+		"cover": "./img/汪苏泷 - 年轮.webp",
+		"lrc": "./lrc/汪苏泷 - 年轮.lrc"
+	},
+	{
+		"name": "壁上观 (1_08x氛围混响版)",
+		"artist": "沈楠",
+		"url": "./music/沈楠 - 壁上观 (1_08x氛围混响版).mp3",
+		"cover": "./img/沈楠 - 壁上观 (1_08x氛围混响版).webp",
+		"lrc": "./lrc/沈楠 - 壁上观 (1_08x氛围混响版).lrc"
+	},
+	{
+		"name": "长安李白",
+		"artist": "河图",
+		"url": "./music/河图 - 长安李白.mp3",
+		"cover": "./img/河图 - 长安李白.webp",
+		"lrc": "./lrc/河图 - 长安李白.lrc"
+	},
+	{
+		"name": "探故知 (DJlucky小阳版)",
+		"artist": "浅影阿",
+		"url": "./music/浅影阿 - 探故知 (DJlucky小阳版).mp3",
+		"cover": "./img/浅影阿 - 探故知 (DJlucky小阳版).webp",
+		"lrc": "./lrc/浅影阿 - 探故知 (DJlucky小阳版).lrc"
+	},
+	{
+		"name": "探故知",
+		"artist": "浅影阿 _ 汐音社",
+		"url": "./music/浅影阿 _ 汐音社 - 探故知.mp3",
+		"cover": "./img/浅影阿 _ 汐音社 - 探故知.webp",
+		"lrc": "./lrc/浅影阿 _ 汐音社 - 探故知.lrc"
+	},
+	{
+		"name": "星月落",
+		"artist": "浮生梦",
+		"url": "./music/浮生梦 - 星月落.mp3",
+		"cover": "./img/浮生梦 - 星月落.webp",
+		"lrc": "./lrc/浮生梦 - 星月落.lrc"
+	},
+	{
+		"name": "画离弦",
+		"artist": "海伦",
+		"url": "./music/海伦 - 画离弦.mp3",
+		"cover": "./img/海伦 - 画离弦.webp",
+		"lrc": "./lrc/海伦 - 画离弦.lrc"
+	},
+	{
+		"name": "千千万万",
+		"artist": "深海鱼子酱",
+		"url": "./music/深海鱼子酱 - 千千万万.mp3",
+		"cover": "./img/深海鱼子酱 - 千千万万.webp",
+		"lrc": "./lrc/深海鱼子酱 - 千千万万.lrc"
+	},
+	{
+		"name": "烟火人间",
+		"artist": "添儿呗",
+		"url": "./music/添儿呗 - 烟火人间.mp3",
+		"cover": "./img/添儿呗 - 烟火人间.webp",
+		"lrc": "./lrc/添儿呗 - 烟火人间.lrc"
+	},
+	{
+		"name": "大天蓬 (女生版)",
+		"artist": "清水er",
+		"url": "./music/清水er - 大天蓬 (女生版).mp3",
+		"cover": "./img/清水er - 大天蓬 (女生版).webp",
+		"lrc": "./lrc/清水er - 大天蓬 (女生版).lrc"
+	},
+	{
+		"name": "一路生花",
+		"artist": "温奕心",
+		"url": "./music/温奕心 - 一路生花.mp3",
+		"cover": "./img/温奕心 - 一路生花.webp",
+		"lrc": "./lrc/温奕心 - 一路生花.lrc"
+	},
+	{
+		"name": "那些你很冒险的梦 (Live)",
+		"artist": "火羊瞌睡了",
+		"url": "./music/火羊瞌睡了 - 那些你很冒险的梦 (Live).mp3",
+		"cover": "./img/火羊瞌睡了 - 那些你很冒险的梦 (Live).webp",
+		"lrc": "./lrc/火羊瞌睡了 - 那些你很冒险的梦 (Live).lrc"
+	},
+	{
+		"name": "爱河 (片段版)",
+		"artist": "爱吃巧乐兹",
+		"url": "./music/爱吃巧乐兹 - 爱河 (片段版).mp3",
+		"cover": "./img/爱吃巧乐兹 - 爱河 (片段版).webp",
+		"lrc": "./lrc/爱吃巧乐兹 - 爱河 (片段版).lrc"
+	},
+	{
+		"name": "吹梦到西洲",
+		"artist": "爱弹琴的涵妹",
+		"url": "./music/爱弹琴的涵妹 - 吹梦到西洲.mp3",
+		"cover": "./img/爱弹琴的涵妹 - 吹梦到西洲.webp",
+		"lrc": "./lrc/爱弹琴的涵妹 - 吹梦到西洲.lrc"
+	},
+	{
+		"name": "Night Crusing(夜间巡航) (Inst_)",
+		"artist": "牛尾憲輔",
+		"url": "./music/牛尾憲輔 - Night Crusing(夜间巡航) (Inst_).mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "无情画",
+		"artist": "王唯旖",
+		"url": "./music/王唯旖 - 无情画.mp3",
+		"cover": "./img/王唯旖 - 无情画.webp",
+		"lrc": "./lrc/王唯旖 - 无情画.lrc"
+	},
+	{
+		"name": "去年夏天",
+		"artist": "王大毛",
+		"url": "./music/王大毛 - 去年夏天.mp3",
+		"cover": "./img/王大毛 - 去年夏天.webp",
+		"lrc": "./lrc/王大毛 - 去年夏天.lrc"
+	},
+	{
+		"name": "我爱他",
+		"artist": "王小帅",
+		"url": "./music/王小帅 - 我爱他.mp3",
+		"cover": "./img/王小帅 - 我爱他.webp",
+		"lrc": "./lrc/王小帅 - 我爱他.lrc"
+	},
+	{
+		"name": "秋天不回来",
+		"artist": "王强",
+		"url": "./music/王强 - 秋天不回来.mp3",
+		"cover": "./img/王强 - 秋天不回来.webp",
+		"lrc": "./lrc/王强 - 秋天不回来.lrc"
+	},
+	{
+		"name": "清空",
+		"artist": "王忻辰 _ 苏星婕",
+		"url": "./music/王忻辰 _ 苏星婕 - 清空.mp3",
+		"cover": "./img/王忻辰 _ 苏星婕 - 清空.webp",
+		"lrc": "./lrc/王忻辰 _ 苏星婕 - 清空.lrc"
+	},
+	{
+		"name": "一场游戏一场梦",
+		"artist": "王杰",
+		"url": "./music/王杰 - 一场游戏一场梦.mp3",
+		"cover": "./img/王杰 - 一场游戏一场梦.webp",
+		"lrc": "./lrc/王杰 - 一场游戏一场梦.lrc"
+	},
+	{
+		"name": "青春不打烊",
+		"artist": "王梓钰",
+		"url": "./music/王梓钰 - 青春不打烊.mp3",
+		"cover": "./img/王梓钰 - 青春不打烊.webp",
+		"lrc": "./lrc/王梓钰 - 青春不打烊.lrc"
+	},
+	{
+		"name": "容易受伤的女人",
+		"artist": "王菲",
+		"url": "./music/王菲 - 容易受伤的女人.mp3",
+		"cover": "./img/王菲 - 容易受伤的女人.webp",
+		"lrc": "./lrc/王菲 - 容易受伤的女人.lrc"
+	},
+	{
+		"name": "恶作剧",
+		"artist": "王蓝茵",
+		"url": "./music/王蓝茵 - 恶作剧.mp3",
+		"cover": "./img/王蓝茵 - 恶作剧.webp",
+		"lrc": "./lrc/王蓝茵 - 恶作剧.lrc"
+	},
+	{
+		"name": "像鱼",
+		"artist": "王贰浪",
+		"url": "./music/王贰浪 - 像鱼.mp3",
+		"cover": "./img/王贰浪 - 像鱼.webp",
+		"lrc": "./lrc/王贰浪 - 像鱼.lrc"
+	},
+	{
+		"name": "最后一页 (Live)",
+		"artist": "王赫野 _ 姚晓棠",
+		"url": "./music/王赫野 _ 姚晓棠 - 最后一页 (Live).mp3",
+		"cover": "./img/王赫野 _ 姚晓棠 - 最后一页 (Live).webp",
+		"lrc": "./lrc/王赫野 _ 姚晓棠 - 最后一页 (Live).lrc"
+	},
+	{
+		"name": "爱，存在",
+		"artist": "王靖雯",
+		"url": "./music/王靖雯 - 爱，存在.mp3",
+		"cover": "./img/王靖雯 - 爱，存在.webp",
+		"lrc": "./lrc/王靖雯 - 爱，存在.lrc"
+	},
+	{
+		"name": "大天蓬 (弹唱片段)",
+		"artist": "璐爷",
+		"url": "./music/璐爷 - 大天蓬 (弹唱片段).mp3",
+		"cover": "./img/璐爷 - 大天蓬 (弹唱片段).webp",
+		"lrc": "./lrc/璐爷 - 大天蓬 (弹唱片段).lrc"
+	},
+	{
+		"name": "鲁冰花",
+		"artist": "甄妮",
+		"url": "./music/甄妮 - 鲁冰花.mp3",
+		"cover": "./img/甄妮 - 鲁冰花.webp",
+		"lrc": "./lrc/甄妮 - 鲁冰花.lrc"
+	},
+	{
+		"name": "小幸运",
+		"artist": "田馥甄",
+		"url": "./music/田馥甄 - 小幸运.mp3",
+		"cover": "./img/田馥甄 - 小幸运.webp",
+		"lrc": "./lrc/田馥甄 - 小幸运.lrc"
+	},
+	{
+		"name": "願い〜あの頃のキミへ〜 (祈愿～致那个时候的你～)",
+		"artist": "當山みれい",
+		"url": "./music/當山みれい - 願い〜あの頃のキミへ〜 (祈愿～致那个时候的你～).mp3",
+		"cover": "./img/當山みれい - 願い〜あの頃のキミへ〜 (祈愿～致那个时候的你～).webp",
+		"lrc": "./lrc/當山みれい - 願い〜あの頃のキミへ〜 (祈愿～致那个时候的你～).lrc"
+	},
+	{
+		"name": "LOVE Theme from TIGA _M-2_",
+		"artist": "矢野立美",
+		"url": "./music/矢野立美 - LOVE Theme from TIGA _M-2_.mp3",
+		"cover": "无",
+		"lrc": "无"
+	},
+	{
+		"name": "弱水三千",
+		"artist": "石头 _ 张晓棠",
+		"url": "./music/石头 _ 张晓棠 - 弱水三千.mp3",
+		"cover": "./img/石头 _ 张晓棠 - 弱水三千.webp",
+		"lrc": "./lrc/石头 _ 张晓棠 - 弱水三千.lrc"
+	},
+	{
+		"name": "我用什么把你留住 (Live)",
+		"artist": "福禄寿FloruitShow",
+		"url": "./music/福禄寿FloruitShow - 我用什么把你留住 (Live).mp3",
+		"cover": "./img/福禄寿FloruitShow - 我用什么把你留住 (Live).webp",
+		"lrc": "./lrc/福禄寿FloruitShow - 我用什么把你留住 (Live).lrc"
+	},
+	{
+		"name": "错季",
+		"artist": "秋原依",
+		"url": "./music/秋原依 - 错季.mp3",
+		"cover": "./img/秋原依 - 错季.webp",
+		"lrc": "./lrc/秋原依 - 错季.lrc"
+	},
+	{
+		"name": "世界这么大还是遇见你",
+		"artist": "程响",
+		"url": "./music/程响 - 世界这么大还是遇见你.mp3",
+		"cover": "./img/程响 - 世界这么大还是遇见你.webp",
+		"lrc": "./lrc/程响 - 世界这么大还是遇见你.lrc"
+	},
+	{
+		"name": "可能",
+		"artist": "程响",
+		"url": "./music/程响 - 可能.mp3",
+		"cover": "./img/程响 - 可能.webp",
+		"lrc": "./lrc/程响 - 可能.lrc"
+	},
+	{
+		"name": "等你归来",
+		"artist": "程响",
+		"url": "./music/程响 - 等你归来.mp3",
+		"cover": "./img/程响 - 等你归来.webp",
+		"lrc": "./lrc/程响 - 等你归来.lrc"
+	},
+	{
+		"name": "光阴的故事",
+		"artist": "罗大佑",
+		"url": "./music/罗大佑 - 光阴的故事.mp3",
+		"cover": "./img/罗大佑 - 光阴的故事.webp",
+		"lrc": "./lrc/罗大佑 - 光阴的故事.lrc"
+	},
+	{
+		"name": "恋曲1990",
+		"artist": "罗大佑",
+		"url": "./music/罗大佑 - 恋曲1990.mp3",
+		"cover": "./img/罗大佑 - 恋曲1990.webp",
+		"lrc": "./lrc/罗大佑 - 恋曲1990.lrc"
+	},
+	{
+		"name": "童年",
+		"artist": "罗大佑",
+		"url": "./music/罗大佑 - 童年.mp3",
+		"cover": "./img/罗大佑 - 童年.webp",
+		"lrc": "./lrc/罗大佑 - 童年.lrc"
+	},
+	{
+		"name": "同桌的你",
+		"artist": "老狼",
+		"url": "./music/老狼 - 同桌的你.mp3",
+		"cover": "./img/老狼 - 同桌的你.webp",
+		"lrc": "./lrc/老狼 - 同桌的你.lrc"
+	},
+	{
+		"name": "后来遇见他",
+		"artist": "胡66",
+		"url": "./music/胡66 - 后来遇见他.mp3",
+		"cover": "./img/胡66 - 后来遇见他.webp",
+		"lrc": "./lrc/胡66 - 后来遇见他.lrc"
+	},
+	{
+		"name": "读者",
+		"artist": "胡66",
+		"url": "./music/胡66 - 读者.mp3",
+		"cover": "./img/胡66 - 读者.webp",
+		"lrc": "./lrc/胡66 - 读者.lrc"
+	},
+	{
+		"name": "你要的全拿走",
+		"artist": "胡彦斌",
+		"url": "./music/胡彦斌 - 你要的全拿走.mp3",
+		"cover": "./img/胡彦斌 - 你要的全拿走.webp",
+		"lrc": "./lrc/胡彦斌 - 你要的全拿走.lrc"
+	},
+	{
+		"name": "一吻天荒",
+		"artist": "胡歌",
+		"url": "./music/胡歌 - 一吻天荒.mp3",
+		"cover": "./img/胡歌 - 一吻天荒.webp",
+		"lrc": "./lrc/胡歌 - 一吻天荒.lrc"
+	},
+	{
+		"name": "忘记时间",
+		"artist": "胡歌",
+		"url": "./music/胡歌 - 忘记时间.mp3",
+		"cover": "./img/胡歌 - 忘记时间.webp",
+		"lrc": "./lrc/胡歌 - 忘记时间.lrc"
+	},
+	{
+		"name": "指纹",
+		"artist": "胡歌",
+		"url": "./music/胡歌 - 指纹.mp3",
+		"cover": "./img/胡歌 - 指纹.webp",
+		"lrc": "./lrc/胡歌 - 指纹.lrc"
+	},
+	{
+		"name": "盗将行",
+		"artist": "花粥 _ 马雨阳",
+		"url": "./music/花粥 _ 马雨阳 - 盗将行.mp3",
+		"cover": "./img/花粥 _ 马雨阳 - 盗将行.webp",
+		"lrc": "./lrc/花粥 _ 马雨阳 - 盗将行.lrc"
+	},
+	{
+		"name": "涅槃 (Phoenix)",
+		"artist": "英雄联盟",
+		"url": "./music/英雄联盟 - 涅槃 (Phoenix).mp3",
+		"cover": "./img/英雄联盟 - 涅槃 (Phoenix).webp",
+		"lrc": "./lrc/英雄联盟 - 涅槃 (Phoenix).lrc"
+	},
+	{
+		"name": "最初的梦想",
+		"artist": "范玮琪",
+		"url": "./music/范玮琪 - 最初的梦想.mp3",
+		"cover": "./img/范玮琪 - 最初的梦想.webp",
+		"lrc": "./lrc/范玮琪 - 最初的梦想.lrc"
+	},
+	{
+		"name": "半点心",
+		"artist": "草蜢",
+		"url": "./music/草蜢 - 半点心.mp3",
+		"cover": "./img/草蜢 - 半点心.webp",
+		"lrc": "./lrc/草蜢 - 半点心.lrc"
+	},
+	{
+		"name": "下辈子不一定还能遇见你 (吉他版)",
+		"artist": "莫叫姐姐",
+		"url": "./music/莫叫姐姐 - 下辈子不一定还能遇见你 (吉他版).mp3",
+		"cover": "./img/莫叫姐姐 - 下辈子不一定还能遇见你 (吉他版).webp",
+		"lrc": "./lrc/莫叫姐姐 - 下辈子不一定还能遇见你 (吉他版).lrc"
+	},
+	{
+		"name": "帝都",
+		"artist": "萌萌哒天团",
+		"url": "./music/萌萌哒天团 - 帝都.mp3",
+		"cover": "./img/萌萌哒天团 - 帝都.webp",
+		"lrc": "./lrc/萌萌哒天团 - 帝都.lrc"
+	},
+	{
+		"name": "遗失的心跳",
+		"artist": "萧亚轩",
+		"url": "./music/萧亚轩 - 遗失的心跳.mp3",
+		"cover": "./img/萧亚轩 - 遗失的心跳.webp",
+		"lrc": "./lrc/萧亚轩 - 遗失的心跳.lrc"
+	},
+	{
+		"name": "一剑天涯",
+		"artist": "萧忆情Alex",
+		"url": "./music/萧忆情Alex - 一剑天涯.mp3",
+		"cover": "./img/萧忆情Alex - 一剑天涯.webp",
+		"lrc": "./lrc/萧忆情Alex - 一剑天涯.lrc"
+	},
+	{
+		"name": "燕无歇",
+		"artist": "蒋雪儿",
+		"url": "./music/蒋雪儿 - 燕无歇.mp3",
+		"cover": "./img/蒋雪儿 - 燕无歇.webp",
+		"lrc": "./lrc/蒋雪儿 - 燕无歇.lrc"
+	},
+	{
+		"name": "莫问归期",
+		"artist": "蒋雪儿",
+		"url": "./music/蒋雪儿 - 莫问归期.mp3",
+		"cover": "./img/蒋雪儿 - 莫问归期.webp",
+		"lrc": "./lrc/蒋雪儿 - 莫问归期.lrc"
+	},
+	{
+		"name": "寂寞烟火",
+		"artist": "蓝心羽",
+		"url": "./music/蓝心羽 - 寂寞烟火.mp3",
+		"cover": "./img/蓝心羽 - 寂寞烟火.webp",
+		"lrc": "./lrc/蓝心羽 - 寂寞烟火.lrc"
+	},
+	{
+		"name": "记忆停留",
+		"artist": "蓝心羽",
+		"url": "./music/蓝心羽 - 记忆停留.mp3",
+		"cover": "./img/蓝心羽 - 记忆停留.webp",
+		"lrc": "./lrc/蓝心羽 - 记忆停留.lrc"
+	},
+	{
+		"name": "说爱你",
+		"artist": "蔡依林",
+		"url": "./music/蔡依林 - 说爱你.mp3",
+		"cover": "./img/蔡依林 - 说爱你.webp",
+		"lrc": "./lrc/蔡依林 - 说爱你.lrc"
+	},
+	{
+		"name": "Letting Go",
+		"artist": "蔡健雅",
+		"url": "./music/蔡健雅 - Letting Go.mp3",
+		"cover": "./img/蔡健雅 - Letting Go.webp",
+		"lrc": "./lrc/蔡健雅 - Letting Go.lrc"
+	},
+	{
+		"name": "失语者",
+		"artist": "蔡健雅",
+		"url": "./music/蔡健雅 - 失语者.mp3",
+		"cover": "./img/蔡健雅 - 失语者.webp",
+		"lrc": "./lrc/蔡健雅 - 失语者.lrc"
+	},
+	{
+		"name": "越来越不懂",
+		"artist": "蔡健雅",
+		"url": "./music/蔡健雅 - 越来越不懂.mp3",
+		"cover": "./img/蔡健雅 - 越来越不懂.webp",
+		"lrc": "./lrc/蔡健雅 - 越来越不懂.lrc"
+	},
+	{
+		"name": "化身孤岛的鲸",
+		"artist": "蔡明希-不才",
+		"url": "./music/蔡明希-不才 - 化身孤岛的鲸.mp3",
+		"cover": "./img/蔡明希-不才 - 化身孤岛的鲸.webp",
+		"lrc": "./lrc/蔡明希-不才 - 化身孤岛的鲸.lrc"
+	},
+	{
+		"name": "天外来物",
+		"artist": "薛之谦",
+		"url": "./music/薛之谦 - 天外来物.mp3",
+		"cover": "./img/薛之谦 - 天外来物.webp",
+		"lrc": "./lrc/薛之谦 - 天外来物.lrc"
+	},
+	{
+		"name": "春娇与志明",
+		"artist": "街道办GDC _ 欧阳耀莹",
+		"url": "./music/街道办GDC _ 欧阳耀莹 - 春娇与志明.mp3",
+		"cover": "./img/街道办GDC _ 欧阳耀莹 - 春娇与志明.webp",
+		"lrc": "./lrc/街道办GDC _ 欧阳耀莹 - 春娇与志明.lrc"
+	},
+	{
+		"name": "辞九门回忆",
+		"artist": "解忧草,冰幽",
+		"url": "./music/解忧草,冰幽 - 辞九门回忆.mp3",
+		"cover": "./img/解忧草,冰幽 - 辞九门回忆.webp",
+		"lrc": "./lrc/解忧草,冰幽 - 辞九门回忆.lrc"
+	},
+	{
+		"name": "天空之外",
+		"artist": "解语花",
+		"url": "./music/解语花 - 天空之外.mp3",
+		"cover": "./img/解语花 - 天空之外.webp",
+		"lrc": "./lrc/解语花 - 天空之外.lrc"
+	},
+	{
+		"name": "有何不可",
+		"artist": "许嵩",
+		"url": "./music/许嵩 - 有何不可.mp3",
+		"cover": "./img/许嵩 - 有何不可.webp",
+		"lrc": "./lrc/许嵩 - 有何不可.lrc"
+	},
+	{
+		"name": "素颜",
+		"artist": "许嵩,何曼婷",
+		"url": "./music/许嵩,何曼婷 - 素颜.mp3",
+		"cover": "./img/许嵩,何曼婷 - 素颜.webp",
+		"lrc": "./lrc/许嵩,何曼婷 - 素颜.lrc"
+	},
+	{
+		"name": "阳光总在风雨后",
+		"artist": "许美静",
+		"url": "./music/许美静 - 阳光总在风雨后.mp3",
+		"cover": "./img/许美静 - 阳光总在风雨后.webp",
+		"lrc": "./lrc/许美静 - 阳光总在风雨后.lrc"
+	},
+	{
+		"name": "独角戏",
+		"artist": "许茹芸",
+		"url": "./music/许茹芸 - 独角戏.mp3",
+		"cover": "./img/许茹芸 - 独角戏.webp",
+		"lrc": "./lrc/许茹芸 - 独角戏.lrc"
+	},
+	{
+		"name": "借我",
+		"artist": "谢春花",
+		"url": "./music/谢春花 - 借我.mp3",
+		"cover": "./img/谢春花 - 借我.webp",
+		"lrc": "./lrc/谢春花 - 借我.lrc"
+	},
+	{
+		"name": "水中花",
+		"artist": "谭咏麟",
+		"url": "./music/谭咏麟 - 水中花.mp3",
+		"cover": "./img/谭咏麟 - 水中花.webp",
+		"lrc": "./lrc/谭咏麟 - 水中花.lrc"
+	},
+	{
+		"name": "讲不出再见",
+		"artist": "谭咏麟",
+		"url": "./music/谭咏麟 - 讲不出再见.mp3",
+		"cover": "./img/谭咏麟 - 讲不出再见.webp",
+		"lrc": "./lrc/谭咏麟 - 讲不出再见.lrc"
+	},
+	{
+		"name": "墨梅 (Live)",
+		"artist": "谭维维",
+		"url": "./music/谭维维 - 墨梅 (Live).mp3",
+		"cover": "./img/谭维维 - 墨梅 (Live).webp",
+		"lrc": "./lrc/谭维维 - 墨梅 (Live).lrc"
+	},
+	{
+		"name": "毕业季",
+		"artist": "贺敬轩",
+		"url": "./music/贺敬轩 - 毕业季.mp3",
+		"cover": "./img/贺敬轩 - 毕业季.webp",
+		"lrc": "./lrc/贺敬轩 - 毕业季.lrc"
+	},
+	{
+		"name": "成都",
+		"artist": "赵雷",
+		"url": "./music/赵雷 - 成都.mp3",
+		"cover": "./img/赵雷 - 成都.webp",
+		"lrc": "./lrc/赵雷 - 成都.lrc"
+	},
+	{
+		"name": "关山酒",
+		"artist": "邓寓君(等什么君)",
+		"url": "./music/邓寓君(等什么君) - 关山酒.mp3",
+		"cover": "./img/邓寓君(等什么君) - 关山酒.webp",
+		"lrc": "./lrc/邓寓君(等什么君) - 关山酒.lrc"
+	},
+	{
+		"name": "天下",
+		"artist": "邓寓君(等什么君)",
+		"url": "./music/邓寓君(等什么君) - 天下.mp3",
+		"cover": "./img/邓寓君(等什么君) - 天下.webp",
+		"lrc": "./lrc/邓寓君(等什么君) - 天下.lrc"
+	},
+	{
+		"name": "归寻",
+		"artist": "邓寓君(等什么君)",
+		"url": "./music/邓寓君(等什么君) - 归寻.mp3",
+		"cover": "./img/邓寓君(等什么君) - 归寻.webp",
+		"lrc": "./lrc/邓寓君(等什么君) - 归寻.lrc"
+	},
+	{
+		"name": "春庭雪",
+		"artist": "邓寓君(等什么君)",
+		"url": "./music/邓寓君(等什么君) - 春庭雪.mp3",
+		"cover": "./img/邓寓君(等什么君) - 春庭雪.webp",
+		"lrc": "./lrc/邓寓君(等什么君) - 春庭雪.lrc"
+	},
+	{
+		"name": "赤伶",
+		"artist": "邓寓君(等什么君)",
+		"url": "./music/邓寓君(等什么君) - 赤伶.mp3",
+		"cover": "./img/邓寓君(等什么君) - 赤伶.webp",
+		"lrc": "./lrc/邓寓君(等什么君) - 赤伶.lrc"
+	},
+	{
+		"name": "辞九门回忆",
+		"artist": "邓寓君(等什么君)",
+		"url": "./music/邓寓君(等什么君) - 辞九门回忆.mp3",
+		"cover": "./img/邓寓君(等什么君) - 辞九门回忆.webp",
+		"lrc": "./lrc/邓寓君(等什么君) - 辞九门回忆.lrc"
+	},
+	{
+		"name": "踏雪",
+		"artist": "邓寓君(等什么君) _ FOX胡天渝",
+		"url": "./music/邓寓君(等什么君) _ FOX胡天渝 - 踏雪.mp3",
+		"cover": "./img/邓寓君(等什么君) _ FOX胡天渝 - 踏雪.webp",
+		"lrc": "./lrc/邓寓君(等什么君) _ FOX胡天渝 - 踏雪.lrc"
+	},
+	{
+		"name": "九百九十九朵玫瑰",
+		"artist": "邰正宵",
+		"url": "./music/邰正宵 - 九百九十九朵玫瑰.mp3",
+		"cover": "./img/邰正宵 - 九百九十九朵玫瑰.webp",
+		"lrc": "./lrc/邰正宵 - 九百九十九朵玫瑰.lrc"
+	},
+	{
+		"name": "路过人间",
+		"artist": "郁可唯",
+		"url": "./music/郁可唯 - 路过人间.mp3",
+		"cover": "./img/郁可唯 - 路过人间.webp",
+		"lrc": "./lrc/郁可唯 - 路过人间.lrc"
+	},
+	{
+		"name": "瞬",
+		"artist": "郑润泽",
+		"url": "./music/郑润泽 - 瞬.mp3",
+		"cover": "./img/郑润泽 - 瞬.webp",
+		"lrc": "./lrc/郑润泽 - 瞬.lrc"
+	},
+	{
+		"name": "一万个理由",
+		"artist": "郑源",
+		"url": "./music/郑源 - 一万个理由.mp3",
+		"cover": "./img/郑源 - 一万个理由.webp",
+		"lrc": "./lrc/郑源 - 一万个理由.lrc"
+	},
+	{
+		"name": "心墙",
+		"artist": "郭静",
+		"url": "./music/郭静 - 心墙.mp3",
+		"cover": "./img/郭静 - 心墙.webp",
+		"lrc": "./lrc/郭静 - 心墙.lrc"
+	},
+	{
+		"name": "岁月神偷 (Demo)",
+		"artist": "金玟岐",
+		"url": "./music/金玟岐 - 岁月神偷 (Demo).mp3",
+		"cover": "./img/金玟岐 - 岁月神偷 (Demo).webp",
+		"lrc": "./lrc/金玟岐 - 岁月神偷 (Demo).lrc"
+	},
+	{
+		"name": "棠梨煎雪",
+		"artist": "银临",
+		"url": "./music/银临 - 棠梨煎雪.mp3",
+		"cover": "./img/银临 - 棠梨煎雪.webp",
+		"lrc": "./lrc/银临 - 棠梨煎雪.lrc"
+	},
+	{
+		"name": "牵丝戏",
+		"artist": "银临 _ Aki阿杰",
+		"url": "./music/银临 _ Aki阿杰 - 牵丝戏.mp3",
+		"cover": "./img/银临 _ Aki阿杰 - 牵丝戏.webp",
+		"lrc": "./lrc/银临 _ Aki阿杰 - 牵丝戏.lrc"
+	},
+	{
+		"name": "lost rivers (DJ版)",
+		"artist": "锋锋",
+		"url": "./music/锋锋 - lost rivers (DJ版).mp3",
+		"cover": "./img/锋锋 - lost rivers (DJ版).webp",
+		"lrc": "./lrc/锋锋 - lost rivers (DJ版).lrc"
+	},
+	{
+		"name": "我太笨",
+		"artist": "锤娜丽莎",
+		"url": "./music/锤娜丽莎 - 我太笨.mp3",
+		"cover": "./img/锤娜丽莎 - 我太笨.webp",
+		"lrc": "./lrc/锤娜丽莎 - 我太笨.lrc"
+	},
+	{
+		"name": "一笑江湖",
+		"artist": "闻人听書_",
+		"url": "./music/闻人听書_ - 一笑江湖.mp3",
+		"cover": "./img/闻人听書_ - 一笑江湖.webp",
+		"lrc": "./lrc/闻人听書_ - 一笑江湖.lrc"
+	},
+	{
+		"name": "虞兮叹",
+		"artist": "闻人听書_",
+		"url": "./music/闻人听書_ - 虞兮叹.mp3",
+		"cover": "./img/闻人听書_ - 虞兮叹.webp",
+		"lrc": "./lrc/闻人听書_ - 虞兮叹.lrc"
+	},
+	{
+		"name": "予你",
+		"artist": "队长",
+		"url": "./music/队长 - 予你.mp3",
+		"cover": "./img/队长 - 予你.webp",
+		"lrc": "./lrc/队长 - 予你.lrc"
+	},
+	{
+		"name": "情人咒",
+		"artist": "阿云嘎 _ 郁可唯",
+		"url": "./music/阿云嘎 _ 郁可唯 - 情人咒.mp3",
+		"cover": "./img/阿云嘎 _ 郁可唯 - 情人咒.webp",
+		"lrc": "./lrc/阿云嘎 _ 郁可唯 - 情人咒.lrc"
+	},
+	{
+		"name": "有一种爱叫做放手",
+		"artist": "阿木",
+		"url": "./music/阿木 - 有一种爱叫做放手.mp3",
+		"cover": "./img/阿木 - 有一种爱叫做放手.webp",
+		"lrc": "./lrc/阿木 - 有一种爱叫做放手.lrc"
+	},
+	{
+		"name": "一直很安静",
+		"artist": "阿桑",
+		"url": "./music/阿桑 - 一直很安静.mp3",
+		"cover": "./img/阿桑 - 一直很安静.webp",
+		"lrc": "./lrc/阿桑 - 一直很安静.lrc"
+	},
+	{
+		"name": "耍把戏",
+		"artist": "阿禹ayy",
+		"url": "./music/阿禹ayy - 耍把戏.mp3",
+		"cover": "./img/阿禹ayy - 耍把戏.webp",
+		"lrc": "./lrc/阿禹ayy - 耍把戏.lrc"
+	},
+	{
+		"name": "太多",
+		"artist": "陈冠蒲",
+		"url": "./music/陈冠蒲 - 太多.mp3",
+		"cover": "./img/陈冠蒲 - 太多.webp",
+		"lrc": "./lrc/陈冠蒲 - 太多.lrc"
+	},
+	{
+		"name": "十年",
+		"artist": "陈奕迅",
+		"url": "./music/陈奕迅 - 十年.mp3",
+		"cover": "./img/陈奕迅 - 十年.webp",
+		"lrc": "./lrc/陈奕迅 - 十年.lrc"
+	},
+	{
+		"name": "富士山下",
+		"artist": "陈奕迅",
+		"url": "./music/陈奕迅 - 富士山下.mp3",
+		"cover": "./img/陈奕迅 - 富士山下.webp",
+		"lrc": "./lrc/陈奕迅 - 富士山下.lrc"
+	},
+	{
+		"name": "梦想天空分外蓝",
+		"artist": "陈奕迅",
+		"url": "./music/陈奕迅 - 梦想天空分外蓝.mp3",
+		"cover": "./img/陈奕迅 - 梦想天空分外蓝.webp",
+		"lrc": "./lrc/陈奕迅 - 梦想天空分外蓝.lrc"
+	},
+	{
+		"name": "淘汰",
+		"artist": "陈奕迅",
+		"url": "./music/陈奕迅 - 淘汰.mp3",
+		"cover": "./img/陈奕迅 - 淘汰.webp",
+		"lrc": "./lrc/陈奕迅 - 淘汰.lrc"
+	},
+	{
+		"name": "爱情转移",
+		"artist": "陈奕迅",
+		"url": "./music/陈奕迅 - 爱情转移.mp3",
+		"cover": "./img/陈奕迅 - 爱情转移.webp",
+		"lrc": "./lrc/陈奕迅 - 爱情转移.lrc"
+	},
+	{
+		"name": "千千阕歌",
+		"artist": "陈慧娴",
+		"url": "./music/陈慧娴 - 千千阕歌.mp3",
+		"cover": "./img/陈慧娴 - 千千阕歌.webp",
+		"lrc": "./lrc/陈慧娴 - 千千阕歌.lrc"
+	},
+	{
+		"name": "猪猪侠",
+		"artist": "陈洁丽",
+		"url": "./music/陈洁丽 - 猪猪侠.mp3",
+		"cover": "./img/陈洁丽 - 猪猪侠.webp",
+		"lrc": "./lrc/陈洁丽 - 猪猪侠.lrc"
+	},
+	{
+		"name": "回忆见",
+		"artist": "陈雪凝",
+		"url": "./music/陈雪凝 - 回忆见.mp3",
+		"cover": "./img/陈雪凝 - 回忆见.webp",
+		"lrc": "./lrc/陈雪凝 - 回忆见.lrc"
+	},
+	{
+		"name": "愚昧",
+		"artist": "陈雪凝",
+		"url": "./music/陈雪凝 - 愚昧.mp3",
+		"cover": "./img/陈雪凝 - 愚昧.webp",
+		"lrc": "./lrc/陈雪凝 - 愚昧.lrc"
+	},
+	{
+		"name": "追寻我的梦",
+		"artist": "青琰",
+		"url": "./music/青琰 - 追寻我的梦.mp3",
+		"cover": "./img/青琰 - 追寻我的梦.webp",
+		"lrc": "./lrc/青琰 - 追寻我的梦.lrc"
+	},
+	{
+		"name": "此生不换",
+		"artist": "青鸟飞鱼",
+		"url": "./music/青鸟飞鱼 - 此生不换.mp3",
+		"cover": "./img/青鸟飞鱼 - 此生不换.webp",
+		"lrc": "./lrc/青鸟飞鱼 - 此生不换.lrc"
+	},
+	{
+		"name": "叹云兮",
+		"artist": "鞠婧祎",
+		"url": "./music/鞠婧祎 - 叹云兮.mp3",
+		"cover": "./img/鞠婧祎 - 叹云兮.webp",
+		"lrc": "./lrc/鞠婧祎 - 叹云兮.lrc"
+	},
+	{
+		"name": "BINGBIAN病变 (女声版)",
+		"artist": "鞠文娴",
+		"url": "./music/鞠文娴 - BINGBIAN病变 (女声版).mp3",
+		"cover": "./img/鞠文娴 - BINGBIAN病变 (女声版).webp",
+		"lrc": "./lrc/鞠文娴 - BINGBIAN病变 (女声版).lrc"
+	},
+	{
+		"name": "如果可以",
+		"artist": "韦礼安",
+		"url": "./music/韦礼安 - 如果可以.mp3",
+		"cover": "./img/韦礼安 - 如果可以.webp",
+		"lrc": "./lrc/韦礼安 - 如果可以.lrc"
+	},
+	{
+		"name": "想起",
+		"artist": "韩雪",
+		"url": "./music/韩雪 - 想起.mp3",
+		"cover": "./img/韩雪 - 想起.webp",
+		"lrc": "./lrc/韩雪 - 想起.lrc"
+	},
+	{
+		"name": "犯错",
+		"artist": "顾峰 _ 斯琴高丽",
+		"url": "./music/顾峰 _ 斯琴高丽 - 犯错.mp3",
+		"cover": "./img/顾峰 _ 斯琴高丽 - 犯错.webp",
+		"lrc": "./lrc/顾峰 _ 斯琴高丽 - 犯错.lrc"
+	},
+	{
+		"name": "错词",
+		"artist": "颜陌 _ 苏童童",
+		"url": "./music/颜陌 _ 苏童童 - 错词.mp3",
+		"cover": "./img/颜陌 _ 苏童童 - 错词.webp",
+		"lrc": "./lrc/颜陌 _ 苏童童 - 错词.lrc"
+	},
+	{
+		"name": "春庭雪 (片段版)",
+		"artist": "风浪才子",
+		"url": "./music/风浪才子 - 春庭雪 (片段版).mp3",
+		"cover": "./img/风浪才子 - 春庭雪 (片段版).webp",
+		"lrc": "./lrc/风浪才子 - 春庭雪 (片段版).lrc"
+	},
+	{
+		"name": "勋章",
+		"artist": "鹿晗",
+		"url": "./music/鹿晗 - 勋章.mp3",
+		"cover": "./img/鹿晗 - 勋章.webp",
+		"lrc": "./lrc/鹿晗 - 勋章.lrc"
+	},
+	{
+		"name": "致爱 Your Song",
+		"artist": "鹿晗",
+		"url": "./music/鹿晗 - 致爱 Your Song.mp3",
+		"cover": "./img/鹿晗 - 致爱 Your Song.webp",
+		"lrc": "./lrc/鹿晗 - 致爱 Your Song.lrc"
+	},
+	{
+		"name": "山河",
+		"artist": "黄晨晨",
+		"url": "./music/黄晨晨 - 山河.mp3",
+		"cover": "./img/黄晨晨 - 山河.webp",
+		"lrc": "./lrc/黄晨晨 - 山河.lrc"
+	},
+	{
+		"name": "大约在冬季",
+		"artist": "齐秦",
+		"url": "./music/齐秦 - 大约在冬季.mp3",
+		"cover": "./img/齐秦 - 大约在冬季.webp",
+		"lrc": "./lrc/齐秦 - 大约在冬季.lrc"
+	}
+]
