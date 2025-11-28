@@ -1,0 +1,1 @@
+var remoteMusic = './music.json';
